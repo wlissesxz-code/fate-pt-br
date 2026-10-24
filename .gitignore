@@ -1,0 +1,13 @@
+.stage-*/
+.fate-ptbr/
+dist/
+local-tests/
+*.zip
+*.dll
+*.exe
+*.scn
+*.SCN
+*.ogg
+*.wav
+*.ffd
+*.log

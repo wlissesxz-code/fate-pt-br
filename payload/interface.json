@@ -1,0 +1,7311 @@
+[
+  {
+    "id": 101,
+    "sources": [
+      "This game must be run in 16- or 32-bit color mode. Please change your desktop color depth and try again."
+    ],
+    "text": "Este jogo exige cores de 16 ou 32 bits. Altere a profundidade de cor da área de trabalho e tente novamente."
+  },
+  {
+    "id": 102,
+    "sources": [
+      "\nTo play this game, you need DirectX 9.0 or higher.\nDownload a new version of DirectX from http://www.microsoft.com/directx and launch the game again."
+    ],
+    "text": "\nPara jogar, você precisa do DirectX 9.0 ou superior.\nBaixe uma versão atualizada em http://www.microsoft.com/directx e abra o jogo novamente."
+  },
+  {
+    "id": 103,
+    "sources": [
+      "Could not initialize Direct3D. You may\n",
+      "Could not initialise Direct3D. You may\n"
+    ],
+    "text": "Não foi possível iniciar o Direct3D.\n"
+  },
+  {
+    "id": 104,
+    "sources": [
+      "want to check that the latest version of\n"
+    ],
+    "text": "Verifique se a versão mais recente do\n"
+  },
+  {
+    "id": 105,
+    "sources": [
+      "DirectX is correctly installed on your\n"
+    ],
+    "text": "DirectX está instalada corretamente no\n"
+  },
+  {
+    "id": 106,
+    "sources": [
+      "system."
+    ],
+    "text": "sistema."
+  },
+  {
+    "id": 107,
+    "sources": [
+      "Could not find any compatible Direct3D\n"
+    ],
+    "text": "Nenhum dispositivo Direct3D compatível\n"
+  },
+  {
+    "id": 108,
+    "sources": [
+      "This game cannot run in a desktop\n"
+    ],
+    "text": "O jogo não pode funcionar em uma\n"
+  },
+  {
+    "id": 109,
+    "sources": [
+      "window with the current display settings.\n"
+    ],
+    "text": "janela com as configurações atuais.\n"
+  },
+  {
+    "id": 110,
+    "sources": [
+      "Please change your desktop settings to a\n"
+    ],
+    "text": "Altere as configurações de vídeo para\n"
+  },
+  {
+    "id": 111,
+    "sources": [
+      "16- or 32-bit display mode and re-run this\n"
+    ],
+    "text": "um modo de 16 ou 32 bits e execute\n"
+  },
+  {
+    "id": 112,
+    "sources": [
+      "sample."
+    ],
+    "text": "o jogo novamente."
+  },
+  {
+    "id": 113,
+    "sources": [
+      "No hardware-accelerated Direct3D devices\n"
+    ],
+    "text": "Nenhum dispositivo Direct3D com\n"
+  },
+  {
+    "id": 114,
+    "sources": [
+      "were found."
+    ],
+    "text": "aceleração de hardware foi encontrado."
+  },
+  {
+    "id": 115,
+    "sources": [
+      "This game requires functionality that is\n",
+      "This game requires functionality which is\n"
+    ],
+    "text": "Este jogo exige funções que\n"
+  },
+  {
+    "id": 116,
+    "sources": [
+      "not available on your Direct3D hardware\n"
+    ],
+    "text": "não estão disponíveis no seu\n"
+  },
+  {
+    "id": 117,
+    "sources": [
+      "accelerator."
+    ],
+    "text": "acelerador gráfico Direct3D."
+  },
+  {
+    "id": 118,
+    "sources": [
+      "Your Direct3D hardware accelerator cannot\n"
+    ],
+    "text": "Seu acelerador gráfico Direct3D não\n"
+  },
+  {
+    "id": 119,
+    "sources": [
+      "render into a window.\n"
+    ],
+    "text": "consegue renderizar em uma janela.\n"
+  },
+  {
+    "id": 120,
+    "sources": [
+      "Press F2 while the app is running to see a\n"
+    ],
+    "text": "Pressione F2 durante a execução para\n"
+  },
+  {
+    "id": 121,
+    "sources": [
+      "list of available devices and modes."
+    ],
+    "text": "ver os dispositivos e modos disponíveis."
+  },
+  {
+    "id": 122,
+    "sources": [
+      "Your Direct3D hardware accelerator cannot\n"
+    ],
+    "text": "Seu acelerador gráfico Direct3D não\n"
+  },
+  {
+    "id": 123,
+    "sources": [
+      "render into a window with the current\n"
+    ],
+    "text": "consegue renderizar em janela com\n"
+  },
+  {
+    "id": 124,
+    "sources": [
+      "desktop display settings.\n"
+    ],
+    "text": "as configurações de vídeo atuais.\n"
+  },
+  {
+    "id": 125,
+    "sources": [
+      "This game requires functionality that is\n",
+      "This game requires functionality which is\n"
+    ],
+    "text": "Este jogo exige funções que\n"
+  },
+  {
+    "id": 126,
+    "sources": [
+      "not available on your Direct3D hardware\n"
+    ],
+    "text": "não estão disponíveis no seu\n"
+  },
+  {
+    "id": 127,
+    "sources": [
+      "accelerator with the current desktop display\n"
+    ],
+    "text": "acelerador Direct3D com as\n"
+  },
+  {
+    "id": 128,
+    "sources": [
+      "settings.\n"
+    ],
+    "text": "configurações de vídeo atuais.\n"
+  },
+  {
+    "id": 129,
+    "sources": [
+      "Could not load required media."
+    ],
+    "text": "Não foi possível carregar os recursos necessários."
+  },
+  {
+    "id": 130,
+    "sources": [
+      "Could not reset the Direct3D device."
+    ],
+    "text": "Não foi possível reiniciar o dispositivo Direct3D."
+  },
+  {
+    "id": 131,
+    "sources": [
+      "A D3D object has a non-zero reference\n"
+    ],
+    "text": "Um objeto D3D tem uma contagem de\n"
+  },
+  {
+    "id": 132,
+    "sources": [
+      "count (meaning things were not properly\n"
+    ],
+    "text": "referências diferente de zero (a limpeza\n"
+  },
+  {
+    "id": 133,
+    "sources": [
+      "cleaned up)."
+    ],
+    "text": "dos recursos não foi concluída)."
+  },
+  {
+    "id": 134,
+    "sources": [
+      "Warning: Nothing will be rendered.\n"
+    ],
+    "text": "Aviso: nada será renderizado.\n"
+  },
+  {
+    "id": 135,
+    "sources": [
+      "The reference rendering device was selected, but your\n"
+    ],
+    "text": "O dispositivo de referência foi selecionado, mas\n"
+  },
+  {
+    "id": 136,
+    "sources": [
+      "computer only has a reduced-functionality reference device\n"
+    ],
+    "text": "seu computador só possui um dispositivo de referência\n"
+  },
+  {
+    "id": 137,
+    "sources": [
+      "installed.  \n"
+    ],
+    "text": "com funções reduzidas instalado.\n"
+  },
+  {
+    "id": 138,
+    "sources": [
+      "Not enough memory."
+    ],
+    "text": "Memória insuficiente."
+  },
+  {
+    "id": 139,
+    "sources": [
+      "Not enough video memory."
+    ],
+    "text": "Memória de vídeo insuficiente."
+  },
+  {
+    "id": 140,
+    "sources": [
+      "A serious problem occured inside the display driver."
+    ],
+    "text": "Ocorreu um problema grave no driver de vídeo."
+  },
+  {
+    "id": 141,
+    "sources": [
+      "Application Error"
+    ],
+    "text": "Erro do Aplicativo"
+  },
+  {
+    "id": 142,
+    "sources": [
+      "\n\nThis game will now exit."
+    ],
+    "text": "\n\nO jogo será encerrado."
+  },
+  {
+    "id": 143,
+    "sources": [
+      "\bCompressing Textures...\b\nThis will only happen once..."
+    ],
+    "text": "\bComprimindo Texturas...\b\nIsso só acontecerá uma vez..."
+  },
+  {
+    "id": 144,
+    "sources": [
+      "\bC\bharacter Stats \b(Press C)\b"
+    ],
+    "text": "Atributos \b(C)\b"
+  },
+  {
+    "id": 145,
+    "sources": [
+      "\bI\bnventory \b(Press I)\b"
+    ],
+    "text": "Inventário \b(I)\b"
+  },
+  {
+    "id": 146,
+    "sources": [
+      "Spell\bb\book \b(Press B)\b"
+    ],
+    "text": "Grimório \b(B)\b"
+  },
+  {
+    "id": 147,
+    "sources": [
+      "S\bk\bills \b(Press K)\b"
+    ],
+    "text": "Habilidades \b(K)\b"
+  },
+  {
+    "id": 148,
+    "sources": [
+      "\bJ\bournal \b(Press J)\b"
+    ],
+    "text": "Diário \b(J)\b"
+  },
+  {
+    "id": 149,
+    "sources": [
+      "\bQ\buests \b(Press Q)\b"
+    ],
+    "text": "Missões \b(Q)\b"
+  },
+  {
+    "id": 150,
+    "sources": [
+      "\bM\bap \b(Press M)\b"
+    ],
+    "text": "Mapa \b(M)\b"
+  },
+  {
+    "id": 151,
+    "sources": [
+      "Sa\bv\be \b(Press V)\b"
+    ],
+    "text": "Salvar \b(V)\b"
+  },
+  {
+    "id": 152,
+    "sources": [
+      "Place Potions Here For Quick Access"
+    ],
+    "text": "Coloque Poções Aqui para Acesso Rápido"
+  },
+  {
+    "id": 153,
+    "sources": [
+      "Fleeing"
+    ],
+    "text": "Fugindo"
+  },
+  {
+    "id": 154,
+    "sources": [
+      "Wait for a \bbite\b\nand \bset the hook\b"
+    ],
+    "text": "Espere uma \bfisgada\b\ne \bpuxe o anzol\b"
+  },
+  {
+    "id": 155,
+    "sources": [
+      "Set Hook!"
+    ],
+    "text": "Puxe o Anzol!"
+  },
+  {
+    "id": 156,
+    "sources": [
+      "Stop Fishing"
+    ],
+    "text": "Parar de Pescar"
+  },
+  {
+    "id": 157,
+    "sources": [
+      "Toggle \bR\bun\n( or hold \b<CTRL>\b )"
+    ],
+    "text": "Alternar Corrida \b(R)\b\n(ou segure \b<CTRL>\b)"
+  },
+  {
+    "id": 158,
+    "sources": [
+      "Toggle Reveal All Items\n( or hold \b<ALT>\b )"
+    ],
+    "text": "Mostrar Todos os Itens\n(ou segure \b<ALT>\b)"
+  },
+  {
+    "id": 159,
+    "sources": [
+      "\b\nuntil pet returns..."
+    ],
+    "text": "\b\naté o companheiro voltar..."
+  },
+  {
+    "id": 160,
+    "sources": [
+      "Life "
+    ],
+    "text": "Vida "
+  },
+  {
+    "id": 161,
+    "sources": [
+      "Click To Distribute Points"
+    ],
+    "text": "Clique para Distribuir Pontos"
+  },
+  {
+    "id": 162,
+    "sources": [
+      "Level Up!"
+    ],
+    "text": "Subiu de Nível!"
+  },
+  {
+    "id": 163,
+    "sources": [
+      "View Help"
+    ],
+    "text": "Ver Ajuda"
+  },
+  {
+    "id": 164,
+    "sources": [
+      "Drop Potions Here To Use"
+    ],
+    "text": "Solte Poções Aqui para Usar"
+  },
+  {
+    "id": 165,
+    "sources": [
+      "Pe\bt\b Stats \b(Press T)\b"
+    ],
+    "text": "Atributos do Companheiro \b(T)\b"
+  },
+  {
+    "id": 166,
+    "sources": [
+      "\bP\bet Inventory \b(Press P)\b"
+    ],
+    "text": "Inventário do Companheiro \b(P)\b"
+  },
+  {
+    "id": 167,
+    "sources": [
+      "Send Pet To Town"
+    ],
+    "text": "Enviar Companheiro à Cidade"
+  },
+  {
+    "id": 168,
+    "sources": [
+      "\bLeft-Click\b to select spell\n\bRight-Click\b casts active spell"
+    ],
+    "text": "\bBotão esquerdo\b: selecionar magia\n\bBotão direito\b: lançar magia ativa"
+  },
+  {
+    "id": 169,
+    "sources": [
+      "\bLeft-Click\b to set \b $1 \b As Active Spell\n\bF1-F12\b assigns to hotkey"
+    ],
+    "text": "\bBotão esquerdo\b: ativar \b $1 \b\n\bF1-F12\b: atribuir atalho"
+  },
+  {
+    "id": 170,
+    "sources": [
+      "Close"
+    ],
+    "text": "Fechar"
+  },
+  {
+    "id": 171,
+    "sources": [
+      "Yes"
+    ],
+    "text": "Sim"
+  },
+  {
+    "id": 172,
+    "sources": [
+      "No"
+    ],
+    "text": "Não"
+  },
+  {
+    "id": 173,
+    "sources": [
+      "Confirm?"
+    ],
+    "text": "Confirmar?"
+  },
+  {
+    "id": 174,
+    "sources": [
+      "Choose"
+    ],
+    "text": "Escolher"
+  },
+  {
+    "id": 175,
+    "sources": [
+      "Out of the darkness, \bFate\b approaches..."
+    ],
+    "text": "Da escuridão, o \bDestino\b se aproxima..."
+  },
+  {
+    "id": 176,
+    "sources": [
+      "\b\"Choose Your Fate\"\b"
+    ],
+    "text": "\b\"Escolha Seu Destino\"\b"
+  },
+  {
+    "id": 177,
+    "sources": [
+      "Choice 1"
+    ],
+    "text": "Escolha 1"
+  },
+  {
+    "id": 178,
+    "sources": [
+      "Choice 2"
+    ],
+    "text": "Escolha 2"
+  },
+  {
+    "id": 179,
+    "sources": [
+      "Load from the last saved location..."
+    ],
+    "text": "Voltar ao último ponto salvo..."
+  },
+  {
+    "id": 180,
+    "sources": [
+      "Quit"
+    ],
+    "text": "Sair"
+  },
+  {
+    "id": 181,
+    "sources": [
+      "I will \bheal\b you to full strength, and allow you to continue at your \bcurrent location\b - however, I will require \b$1 Experience\b and \b$2 Fame\b as compensation..."
+    ],
+    "text": "Restauro toda a sua \bvida\b e você continua \baqui\b. Custo: \b$1 de Experiência\b e \b$2 de Fama\b."
+  },
+  {
+    "id": 182,
+    "sources": [
+      "I will \bheal\b you to full strength, and \btransport\b you to a nearby level, but you must pay me \b$1 Gold\b in return."
+    ],
+    "text": "Restauro toda a sua \bvida\b e levo você a um \bandar próximo\b por \b$1 de Ouro\b."
+  },
+  {
+    "id": 183,
+    "sources": [
+      "I will \bheal\b you to full strength, and \btransport\b you \bthree levels\b upward, but your \bgold\b must remain here where you have fallen...for a time...",
+      "I will \bheal\b you to full strength, and \btransport\b you \bthree levels\b up, but your \bgold\b must remain here where you have fallen...for a time..."
+    ],
+    "text": "Restauro sua \bvida\b e levo você \btrês andares acima\b. Seu \bouro\b ficará aqui por algum tempo."
+  },
+  {
+    "id": 184,
+    "sources": [
+      "I will \bheal\b you to full strength, and \btransport\b you back to the town of \bGrove\b, but your \bgold\b must remain here where you have fallen...for a time..."
+    ],
+    "text": "Restauro sua \bvida\b e levo você de volta a \bGrove\b. Seu \bouro\b ficará aqui por algum tempo."
+  },
+  {
+    "id": 186,
+    "sources": [
+      "Wow! You caught a fish and found a \b$1\b in it!"
+    ],
+    "text": "Você pescou um peixe e encontrou \b$1\b dentro dele!"
+  },
+  {
+    "id": 187,
+    "sources": [
+      "Great fishing! You caught a \b$1\b!"
+    ],
+    "text": "Você pescou \b$1\b!"
+  },
+  {
+    "id": 188,
+    "sources": [
+      "You have perished!"
+    ],
+    "text": "Você morreu!"
+  },
+  {
+    "id": 189,
+    "sources": [
+      "Will you send your pet to \bTown\b to \bsell\b any items it isn't wearing?\nThe deeper you are, the longer it will take for your pet to return.",
+      "Will you send your pet to \bTown\b to \bsell\b any items it is not wearing?\nThe deeper you are, the longer it will take for your pet to return."
+    ],
+    "text": "Enviar o \bcompanheiro\b à cidade para \bvender os itens não equipados\b? Quanto mais fundo você estiver, mais ele demorará."
+  },
+  {
+    "id": 190,
+    "sources": [
+      "\b$1\b retired at \bLevel $2\b"
+    ],
+    "text": "\b$1\b se aposentou no \bNível $2\b"
+  },
+  {
+    "id": 191,
+    "sources": [
+      "\nwith a Renown of \b$1\b"
+    ],
+    "text": "\ncom Renome de \b$1\b"
+  },
+  {
+    "id": 192,
+    "sources": [
+      "\n\bGold Gathered : \b"
+    ],
+    "text": "\n\bOuro Coletado: \b"
+  },
+  {
+    "id": 193,
+    "sources": [
+      "\n\bQuests Completed : \b"
+    ],
+    "text": "\n\bMissões Concluídas: \b"
+  },
+  {
+    "id": 194,
+    "sources": [
+      "\n\bMonsters Defeated : \b"
+    ],
+    "text": "\n\bMonstros Derrotados: \b"
+  },
+  {
+    "id": 195,
+    "sources": [
+      "\n\bBosses Defeated : \b"
+    ],
+    "text": "\n\bChefes Derrotados: \b"
+  },
+  {
+    "id": 196,
+    "sources": [
+      "All \bgems\b have been removed!"
+    ],
+    "text": "Todas as \bgemas\b foram removidas!"
+  },
+  {
+    "id": 197,
+    "sources": [
+      "There are no \bgems\b in this item!"
+    ],
+    "text": "Não há \bgemas\b neste item!"
+  },
+  {
+    "id": 198,
+    "sources": [
+      "Your \b$1\b was destroyed, returning the following gems to you:"
+    ],
+    "text": "O item \b$1\b foi destruído. Você recuperou estas gemas:"
+  },
+  {
+    "id": 199,
+    "sources": [
+      "There are no \bgems\b in this item!"
+    ],
+    "text": "Não há \bgemas\b neste item!"
+  },
+  {
+    "id": 200,
+    "sources": [
+      "The \bEnchanter\b waves his hands over the \b$1\b but ... nothing happens!"
+    ],
+    "text": "O \bEncantador\b tenta encantar \b$1\b, mas nada acontece!"
+  },
+  {
+    "id": 201,
+    "sources": [
+      "The \bEnchanter\b waves his hands over the \b$1\b - and new \bSockets\b are added!"
+    ],
+    "text": "O \bEncantador\b adiciona \bengastes\b ao item \b$1\b!"
+  },
+  {
+    "id": 202,
+    "sources": [
+      "The \bEnchanter\b waves his hands over the \b$1\b - and your item receives extra enchantment!"
+    ],
+    "text": "O \bEncantador\b dá um encantamento extra ao item \b$1\b!"
+  },
+  {
+    "id": 203,
+    "sources": [
+      "The \bEnchanter\b waves his hands over the \b$1\b - and your item is imbued with unique powers!"
+    ],
+    "text": "O \bEncantador\b dá poderes únicos ao item \b$1\b!"
+  },
+  {
+    "id": 204,
+    "sources": [
+      "The \bEnchanter\b waves his hands over the \b$1\b - and accidentally removes all powers from your item!"
+    ],
+    "text": "O \bEncantador\b remove todos os poderes do item \b$1\b por acidente!"
+  },
+  {
+    "id": 205,
+    "sources": [
+      "The \bEnchanter\b waves his hands over the \b$1\b but ... nothing happens!"
+    ],
+    "text": "O \bEncantador\b tenta encantar \b$1\b, mas nada acontece!"
+  },
+  {
+    "id": 206,
+    "sources": [
+      "You Feel Refreshed!"
+    ],
+    "text": "Você se sente revigorado!"
+  },
+  {
+    "id": 207,
+    "sources": [
+      "I don't have any \berrands\b for you right now... Come back \blater!\b",
+      "I do not have any \berrands\b for you right now... Come back \blater!\b"
+    ],
+    "text": "Não tenho \btarefas\b agora. Volte \bmais tarde\b!"
+  },
+  {
+    "id": 208,
+    "sources": [
+      "Accept"
+    ],
+    "text": "Aceitar"
+  },
+  {
+    "id": 209,
+    "sources": [
+      "Decline"
+    ],
+    "text": "Recusar"
+  },
+  {
+    "id": 210,
+    "sources": [
+      "Please come back when you're not so \bbusy\b and I'll have a task for you...",
+      "Please come back when you are not so \bbusy\b and I will have a task for you..."
+    ],
+    "text": "Volte quando tiver menos \btarefas\b em andamento."
+  },
+  {
+    "id": 211,
+    "sources": [
+      "\bQuest Completed\b! Return to \b$1\b to receive your \breward\b!"
+    ],
+    "text": "\bMissão concluída!\b Volte até \b$1\b para receber a \brecompensa\b."
+  },
+  {
+    "id": 212,
+    "sources": [
+      "Your \bjourney\b is \bcomplete\b! \b$1\b is at last \bdefeated\b! Return to \b$2\b to receive your \breward\b, and the \badulation\b of the town!"
+    ],
+    "text": "\b$1\b foi \bderrotado\b! Sua \bjornada\b está \bconcluída\b. Volte até \b$2\b para receber sua \brecompensa\b e a \badmiração\b da cidade!"
+  },
+  {
+    "id": 213,
+    "sources": [
+      "Save and Exit"
+    ],
+    "text": "Salvar e Sair"
+  },
+  {
+    "id": 214,
+    "sources": [
+      "Resume Game"
+    ],
+    "text": "Retomar Jogo"
+  },
+  {
+    "id": 216,
+    "sources": [
+      "Legendary "
+    ],
+    "text": "Lendário "
+  },
+  {
+    "id": 217,
+    "sources": [
+      "Time Played"
+    ],
+    "text": "Tempo de Jogo"
+  },
+  {
+    "id": 218,
+    "sources": [
+      "Steps Taken"
+    ],
+    "text": "Passos Dados"
+  },
+  {
+    "id": 219,
+    "sources": [
+      "Gold Gathered"
+    ],
+    "text": "Ouro Coletado"
+  },
+  {
+    "id": 220,
+    "sources": [
+      "Quests Completed"
+    ],
+    "text": "Missões Concluídas"
+  },
+  {
+    "id": 221,
+    "sources": [
+      "Deepest Depth"
+    ],
+    "text": "Andar Mais Profundo"
+  },
+  {
+    "id": 222,
+    "sources": [
+      "Deaths"
+    ],
+    "text": "Mortes"
+  },
+  {
+    "id": 223,
+    "sources": [
+      "Monsters Defeated"
+    ],
+    "text": "Monstros Derrotados"
+  },
+  {
+    "id": 224,
+    "sources": [
+      "Bosses Defeated"
+    ],
+    "text": "Chefes Derrotados"
+  },
+  {
+    "id": 225,
+    "sources": [
+      "Spells Cast"
+    ],
+    "text": "Magias Lançadas"
+  },
+  {
+    "id": 226,
+    "sources": [
+      "Chests Opened"
+    ],
+    "text": "Baús Abertos"
+  },
+  {
+    "id": 227,
+    "sources": [
+      "Traps Sprung"
+    ],
+    "text": "Armadilhas Acionadas"
+  },
+  {
+    "id": 228,
+    "sources": [
+      "Barrels Broken"
+    ],
+    "text": "Barris Quebrados"
+  },
+  {
+    "id": 229,
+    "sources": [
+      "Potions Used"
+    ],
+    "text": "Poções Usadas"
+  },
+  {
+    "id": 230,
+    "sources": [
+      "Portals Used"
+    ],
+    "text": "Portais Usados"
+  },
+  {
+    "id": 231,
+    "sources": [
+      "Fish Caught"
+    ],
+    "text": "Peixes Pescados"
+  },
+  {
+    "id": 232,
+    "sources": [
+      "Times Gambled"
+    ],
+    "text": "Apostas Feitas"
+  },
+  {
+    "id": 234,
+    "sources": [
+      "Exceptional "
+    ],
+    "text": "Excepcional "
+  },
+  {
+    "id": 235,
+    "sources": [
+      "Flawless "
+    ],
+    "text": "Perfeito "
+  },
+  {
+    "id": 236,
+    "sources": [
+      "Unknown"
+    ],
+    "text": "Desconhecido"
+  },
+  {
+    "id": 237,
+    "sources": [
+      "Tolerated"
+    ],
+    "text": "Tolerado"
+  },
+  {
+    "id": 238,
+    "sources": [
+      "Unremarkable"
+    ],
+    "text": "Comum"
+  },
+  {
+    "id": 239,
+    "sources": [
+      "Respected"
+    ],
+    "text": "Respeitado"
+  },
+  {
+    "id": 240,
+    "sources": [
+      "Local Hero"
+    ],
+    "text": "Herói Local"
+  },
+  {
+    "id": 241,
+    "sources": [
+      "Local Legend"
+    ],
+    "text": "Lenda Local"
+  },
+  {
+    "id": 242,
+    "sources": [
+      "Well Known"
+    ],
+    "text": "Conhecido"
+  },
+  {
+    "id": 243,
+    "sources": [
+      "Folk Hero"
+    ],
+    "text": "Herói do Povo"
+  },
+  {
+    "id": 244,
+    "sources": [
+      "Rising Star"
+    ],
+    "text": "Estrela Ascendente"
+  },
+  {
+    "id": 245,
+    "sources": [
+      "Distinguished"
+    ],
+    "text": "Distinto"
+  },
+  {
+    "id": 246,
+    "sources": [
+      "Prestigious"
+    ],
+    "text": "Prestigioso"
+  },
+  {
+    "id": 247,
+    "sources": [
+      "Famous"
+    ],
+    "text": "Famoso"
+  },
+  {
+    "id": 248,
+    "sources": [
+      "Renowned"
+    ],
+    "text": "Renomado"
+  },
+  {
+    "id": 249,
+    "sources": [
+      "Glorious"
+    ],
+    "text": "Glorioso"
+  },
+  {
+    "id": 250,
+    "sources": [
+      "Legendary",
+      "Legendary "
+    ],
+    "text": "Lendário"
+  },
+  {
+    "id": 251,
+    "sources": [
+      "Fabled"
+    ],
+    "text": "Fabuloso"
+  },
+  {
+    "id": 252,
+    "sources": [
+      "Mythic"
+    ],
+    "text": "Mítico"
+  },
+  {
+    "id": 253,
+    "sources": [
+      "Immortal"
+    ],
+    "text": "Imortal"
+  },
+  {
+    "id": 254,
+    "sources": [
+      "Demigod"
+    ],
+    "text": "Semideus"
+  },
+  {
+    "id": 255,
+    "sources": [
+      "Unattainable"
+    ],
+    "text": "Inigualável"
+  },
+  {
+    "id": 256,
+    "sources": [
+      "Page"
+    ],
+    "text": "Pajem"
+  },
+  {
+    "id": 257,
+    "sources": [
+      "Adventurer"
+    ],
+    "text": "Aventureiro"
+  },
+  {
+    "id": 258,
+    "sources": [
+      "Hero"
+    ],
+    "text": "Herói"
+  },
+  {
+    "id": 259,
+    "sources": [
+      "Legend"
+    ],
+    "text": "Lenda"
+  },
+  {
+    "id": 260,
+    "sources": [
+      "Attack Magic"
+    ],
+    "text": "Magia de Ataque"
+  },
+  {
+    "id": 261,
+    "sources": [
+      "Defense Magic"
+    ],
+    "text": "Magia de Defesa"
+  },
+  {
+    "id": 262,
+    "sources": [
+      "Charm Magic"
+    ],
+    "text": "Magia de Encantamento"
+  },
+  {
+    "id": 263,
+    "sources": [
+      "Piercing Damage"
+    ],
+    "text": "Dano Perfurante"
+  },
+  {
+    "id": 264,
+    "sources": [
+      "Slashing Damage"
+    ],
+    "text": "Dano Cortante"
+  },
+  {
+    "id": 265,
+    "sources": [
+      "Crushing Damage"
+    ],
+    "text": "Dano de Impacto"
+  },
+  {
+    "id": 266,
+    "sources": [
+      "Magical Damage"
+    ],
+    "text": "Dano Mágico"
+  },
+  {
+    "id": 267,
+    "sources": [
+      "Fire Damage"
+    ],
+    "text": "Dano de Fogo"
+  },
+  {
+    "id": 268,
+    "sources": [
+      "Ice Damage"
+    ],
+    "text": "Dano de Gelo"
+  },
+  {
+    "id": 269,
+    "sources": [
+      "Electrical Damage"
+    ],
+    "text": "Dano Elétrico"
+  },
+  {
+    "id": 270,
+    "sources": [
+      "Damage to Undead"
+    ],
+    "text": "Dano a Mortos-vivos"
+  },
+  {
+    "id": 271,
+    "sources": [
+      "Piercing Resistance"
+    ],
+    "text": "Resistência a Perfuração"
+  },
+  {
+    "id": 272,
+    "sources": [
+      "Slashing Resistance"
+    ],
+    "text": "Resistência a Corte"
+  },
+  {
+    "id": 273,
+    "sources": [
+      "Crushing Resistance"
+    ],
+    "text": "Resistência a Impacto"
+  },
+  {
+    "id": 274,
+    "sources": [
+      "Magical Resistance"
+    ],
+    "text": "Resistência a Magia"
+  },
+  {
+    "id": 275,
+    "sources": [
+      "Fire Resistance"
+    ],
+    "text": "Resistência a Fogo"
+  },
+  {
+    "id": 276,
+    "sources": [
+      "Ice Resistance"
+    ],
+    "text": "Resistência a Gelo"
+  },
+  {
+    "id": 277,
+    "sources": [
+      "Electrical Resistance"
+    ],
+    "text": "Resistência a Eletricidade"
+  },
+  {
+    "id": 278,
+    "sources": [
+      "Fire Resistance"
+    ],
+    "text": "Resistência a Fogo"
+  },
+  {
+    "id": 279,
+    "sources": [
+      "Piercing Weakness"
+    ],
+    "text": "Fraqueza a Perfuração"
+  },
+  {
+    "id": 280,
+    "sources": [
+      "Slashing Weakness"
+    ],
+    "text": "Fraqueza a Corte"
+  },
+  {
+    "id": 281,
+    "sources": [
+      "Crushing Weakness"
+    ],
+    "text": "Fraqueza a Impacto"
+  },
+  {
+    "id": 282,
+    "sources": [
+      "Magical Weakness"
+    ],
+    "text": "Fraqueza a Magia"
+  },
+  {
+    "id": 283,
+    "sources": [
+      "Fire Weakness"
+    ],
+    "text": "Fraqueza a Fogo"
+  },
+  {
+    "id": 284,
+    "sources": [
+      "Ice Weakness"
+    ],
+    "text": "Fraqueza a Gelo"
+  },
+  {
+    "id": 285,
+    "sources": [
+      "Electrical Weakness"
+    ],
+    "text": "Fraqueza a Eletricidade"
+  },
+  {
+    "id": 286,
+    "sources": [
+      "Undead Weakness"
+    ],
+    "text": "Fraqueza a Mortos-vivos"
+  },
+  {
+    "id": 287,
+    "sources": [
+      "Flaming "
+    ],
+    "text": "Flamejante "
+  },
+  {
+    "id": 288,
+    "sources": [
+      "Icy "
+    ],
+    "text": "Glacial "
+  },
+  {
+    "id": 289,
+    "sources": [
+      "Shocking "
+    ],
+    "text": "Eletrizante "
+  },
+  {
+    "id": 290,
+    "sources": [
+      "Holy "
+    ],
+    "text": "Sagrado "
+  },
+  {
+    "id": 291,
+    "sources": [
+      "Strength"
+    ],
+    "text": "Força"
+  },
+  {
+    "id": 292,
+    "sources": [
+      "Dexterity"
+    ],
+    "text": "Destreza"
+  },
+  {
+    "id": 293,
+    "sources": [
+      "Vitality"
+    ],
+    "text": "Vitalidade"
+  },
+  {
+    "id": 294,
+    "sources": [
+      "Magic"
+    ],
+    "text": "Magia"
+  },
+  {
+    "id": 295,
+    "sources": [
+      "Level"
+    ],
+    "text": "Nível"
+  },
+  {
+    "id": 296,
+    "sources": [
+      "Renown"
+    ],
+    "text": "Renome"
+  },
+  {
+    "id": 297,
+    "sources": [
+      "Lineage"
+    ],
+    "text": "Linhagem"
+  },
+  {
+    "id": 298,
+    "sources": [
+      "Sword Skill"
+    ],
+    "text": "Espadas"
+  },
+  {
+    "id": 299,
+    "sources": [
+      "Club & Mace Skill"
+    ],
+    "text": "Clavas e Maças"
+  },
+  {
+    "id": 300,
+    "sources": [
+      "Hammer Skill"
+    ],
+    "text": "Martelos"
+  },
+  {
+    "id": 301,
+    "sources": [
+      "Axe Skill"
+    ],
+    "text": "Machados"
+  },
+  {
+    "id": 302,
+    "sources": [
+      "Spear Skill"
+    ],
+    "text": "Lanças"
+  },
+  {
+    "id": 303,
+    "sources": [
+      "Staff Skill"
+    ],
+    "text": "Cajados"
+  },
+  {
+    "id": 304,
+    "sources": [
+      "Polearm Skill"
+    ],
+    "text": "Armas de Haste"
+  },
+  {
+    "id": 305,
+    "sources": [
+      "Bow & Crossbow Skill"
+    ],
+    "text": "Arcos e Bestas"
+  },
+  {
+    "id": 306,
+    "sources": [
+      "Critical Strike Skill"
+    ],
+    "text": "Golpe Crítico"
+  },
+  {
+    "id": 307,
+    "sources": [
+      "Spell Casting Skill"
+    ],
+    "text": "Conjuração"
+  },
+  {
+    "id": 308,
+    "sources": [
+      "Dual-Wielding Skill"
+    ],
+    "text": "Duas Armas"
+  },
+  {
+    "id": 309,
+    "sources": [
+      "Shield Battle Skill"
+    ],
+    "text": "Escudos"
+  },
+  {
+    "id": 310,
+    "sources": [
+      "Attack Magic Skill"
+    ],
+    "text": "Magia de Ataque"
+  },
+  {
+    "id": 311,
+    "sources": [
+      "Defense Magic Skill"
+    ],
+    "text": "Magia de Defesa"
+  },
+  {
+    "id": 312,
+    "sources": [
+      "Charm Magic Skill"
+    ],
+    "text": "Encantamento"
+  },
+  {
+    "id": 313,
+    "sources": [
+      "Slowest"
+    ],
+    "text": "Muito Lento"
+  },
+  {
+    "id": 314,
+    "sources": [
+      "Slow"
+    ],
+    "text": "Lento"
+  },
+  {
+    "id": 316,
+    "sources": [
+      "Fast"
+    ],
+    "text": "Rápido"
+  },
+  {
+    "id": 317,
+    "sources": [
+      "Fastest"
+    ],
+    "text": "Muito Rápido"
+  },
+  {
+    "id": 318,
+    "sources": [
+      "Increases Attack Rating and Damage Dealt with Swords"
+    ],
+    "text": "Aumenta Ataque e Dano\ncom Espadas"
+  },
+  {
+    "id": 319,
+    "sources": [
+      "Increases Attack Rating and Damage Dealt with Clubs and Maces"
+    ],
+    "text": "Aumenta Ataque e Dano\ncom Clavas e Maças"
+  },
+  {
+    "id": 320,
+    "sources": [
+      "Increases Attack Rating and Damage Dealt with Hammers"
+    ],
+    "text": "Aumenta Ataque e Dano\ncom Martelos"
+  },
+  {
+    "id": 321,
+    "sources": [
+      "Increases Attack Rating and Damage Dealt with Axes"
+    ],
+    "text": "Aumenta Ataque e Dano\ncom Machados"
+  },
+  {
+    "id": 322,
+    "sources": [
+      "Increases Attack Rating and Damage Dealt with Spears"
+    ],
+    "text": "Aumenta Ataque e Dano\ncom Lanças"
+  },
+  {
+    "id": 323,
+    "sources": [
+      "Increases Attack Rating and Damage Dealt with Staves"
+    ],
+    "text": "Aumenta Ataque e Dano\ncom Cajados"
+  },
+  {
+    "id": 324,
+    "sources": [
+      "Increases Attack Rating and Damage Dealt with Polearms"
+    ],
+    "text": "Aumenta Ataque e Dano\ncom Armas de Haste"
+  },
+  {
+    "id": 325,
+    "sources": [
+      "Increases Attack Rating and Damage Dealt with Bows and Crossbows"
+    ],
+    "text": "Aumenta Ataque e Dano\ncom Arcos e Bestas"
+  },
+  {
+    "id": 326,
+    "sources": [
+      "Increases Chance of Dealing a Critical Strike"
+    ],
+    "text": "Aumenta a chance de\ncausar Golpes Críticos"
+  },
+  {
+    "id": 327,
+    "sources": [
+      "Decreases Time Required to Cast Spells"
+    ],
+    "text": "Reduz o tempo de\nconjuração de magias"
+  },
+  {
+    "id": 328,
+    "sources": [
+      "Increases Speed and Damage of Secondary Weapon Strikes"
+    ],
+    "text": "Aumenta a velocidade e o dano\nda arma secundária"
+  },
+  {
+    "id": 329,
+    "sources": [
+      "Increases Chance of Blocking When Shields are Used"
+    ],
+    "text": "Aumenta a chance de\nbloquear com Escudos"
+  },
+  {
+    "id": 330,
+    "sources": [
+      "Increases Potency of Attack Magic by 1 Level"
+    ],
+    "text": "Aumenta a potência da\nMagia de Ataque em 1 nível"
+  },
+  {
+    "id": 331,
+    "sources": [
+      "Increases Potency of Defense Magic by 1 Level"
+    ],
+    "text": "Aumenta a potência da\nMagia de Defesa em 1 nível"
+  },
+  {
+    "id": 332,
+    "sources": [
+      "Increases Potency of Charm Magic by 1 Level"
+    ],
+    "text": "Aumenta a potência da\nMagia de Encantamento em 1 nível"
+  },
+  {
+    "id": 333,
+    "sources": [
+      "Sword Class"
+    ],
+    "text": "Classe Espada"
+  },
+  {
+    "id": 334,
+    "sources": [
+      "Club & Mace Class"
+    ],
+    "text": "Classe Clava e Maça"
+  },
+  {
+    "id": 335,
+    "sources": [
+      "Helmet"
+    ],
+    "text": "Elmo"
+  },
+  {
+    "id": 336,
+    "sources": [
+      "Shield"
+    ],
+    "text": "Escudo"
+  },
+  {
+    "id": 337,
+    "sources": [
+      "Spear Class"
+    ],
+    "text": "Classe Lança"
+  },
+  {
+    "id": 338,
+    "sources": [
+      "Bow & Crossbow Class"
+    ],
+    "text": "Classe Arco e Besta"
+  },
+  {
+    "id": 339,
+    "sources": [
+      "Belt"
+    ],
+    "text": "Cinto"
+  },
+  {
+    "id": 340,
+    "sources": [
+      "Jewelry",
+      "Jewellery"
+    ],
+    "text": "Joias"
+  },
+  {
+    "id": 341,
+    "sources": [
+      "Gloves"
+    ],
+    "text": "Luvas"
+  },
+  {
+    "id": 342,
+    "sources": [
+      "Boots"
+    ],
+    "text": "Botas"
+  },
+  {
+    "id": 343,
+    "sources": [
+      "Body Armor",
+      "Body Armour"
+    ],
+    "text": "Armadura"
+  },
+  {
+    "id": 344,
+    "sources": [
+      "Polearm Class"
+    ],
+    "text": "Classe Arma de Haste"
+  },
+  {
+    "id": 345,
+    "sources": [
+      "Axe Class"
+    ],
+    "text": "Classe Machado"
+  },
+  {
+    "id": 346,
+    "sources": [
+      "Hammer Class"
+    ],
+    "text": "Classe Martelo"
+  },
+  {
+    "id": 347,
+    "sources": [
+      "Staff Class"
+    ],
+    "text": "Classe Cajado"
+  },
+  {
+    "id": 348,
+    "sources": [
+      "Bow & Crossbow Class"
+    ],
+    "text": "Classe Arco e Besta"
+  },
+  {
+    "id": 349,
+    "sources": [
+      "Caster"
+    ],
+    "text": "Conjurador"
+  },
+  {
+    "id": 350,
+    "sources": [
+      "Creature"
+    ],
+    "text": "Criatura"
+  },
+  {
+    "id": 351,
+    "sources": [
+      "Area"
+    ],
+    "text": "Área"
+  },
+  {
+    "id": 353,
+    "sources": [
+      "Creature Area"
+    ],
+    "text": "Área da Criatura"
+  },
+  {
+    "id": 354,
+    "sources": [
+      "Caster Area"
+    ],
+    "text": "Área do Conjurador"
+  },
+  {
+    "id": 355,
+    "sources": [
+      "Caster's Minions"
+    ],
+    "text": "Servos do Conjurador"
+  },
+  {
+    "id": 356,
+    "sources": [
+      "Creature's Minions"
+    ],
+    "text": "Servos da Criatura"
+  },
+  {
+    "id": 357,
+    "sources": [
+      "Caster and Minions"
+    ],
+    "text": "Conjurador e Servos"
+  },
+  {
+    "id": 358,
+    "sources": [
+      "Creature and Minions"
+    ],
+    "text": "Criatura e Servos"
+  },
+  {
+    "id": 359,
+    "sources": [
+      "Projectile"
+    ],
+    "text": "Projétil"
+  },
+  {
+    "id": 360,
+    "sources": [
+      "% Strength"
+    ],
+    "text": "% Força"
+  },
+  {
+    "id": 361,
+    "sources": [
+      "% Dexterity"
+    ],
+    "text": "% Destreza"
+  },
+  {
+    "id": 362,
+    "sources": [
+      "% Vitality"
+    ],
+    "text": "% Vitalidade"
+  },
+  {
+    "id": 363,
+    "sources": [
+      "% Magic"
+    ],
+    "text": "% Magia"
+  },
+  {
+    "id": 365,
+    "sources": [
+      "% Life"
+    ],
+    "text": "% Vida"
+  },
+  {
+    "id": 366,
+    "sources": [
+      "% Stamina"
+    ],
+    "text": "% Vigor"
+  },
+  {
+    "id": 367,
+    "sources": [
+      "% Movement Speed"
+    ],
+    "text": "% Velocidade de Movimento"
+  },
+  {
+    "id": 368,
+    "sources": [
+      "% Attack Speed"
+    ],
+    "text": "% Velocidade de Ataque"
+  },
+  {
+    "id": 369,
+    "sources": [
+      "% Defense Rating"
+    ],
+    "text": "% Índice de Defesa"
+  },
+  {
+    "id": 370,
+    "sources": [
+      "% Attack Rating"
+    ],
+    "text": "% Índice de Ataque"
+  },
+  {
+    "id": 371,
+    "sources": [
+      "% Damage Dealt"
+    ],
+    "text": "% Dano Causado"
+  },
+  {
+    "id": 372,
+    "sources": [
+      "% Damage Taken"
+    ],
+    "text": "% Dano Recebido"
+  },
+  {
+    "id": 373,
+    "sources": [
+      "% Improved Chance of Finding Magical Items"
+    ],
+    "text": "% de Chance Extra de Encontrar Itens Mágicos"
+  },
+  {
+    "id": 374,
+    "sources": [
+      "% More Gold Dropped By Enemies"
+    ],
+    "text": "% de Ouro Extra Deixado por Inimigos"
+  },
+  {
+    "id": 375,
+    "sources": [
+      "% Faster Casting Speed"
+    ],
+    "text": "% de Velocidade Extra de Conjuração"
+  },
+  {
+    "id": 376,
+    "sources": [
+      "% Life Stolen Per Hit"
+    ],
+    "text": "% de Vida Roubada por Golpe"
+  },
+  {
+    "id": 377,
+    "sources": [
+      "% Mana Stolen Per Hit"
+    ],
+    "text": "% de Mana Roubada por Golpe"
+  },
+  {
+    "id": 378,
+    "sources": [
+      "% Damage Reflected To Enemy"
+    ],
+    "text": "% de Dano Refletido ao Inimigo"
+  },
+  {
+    "id": 379,
+    "sources": [
+      "% Improved Chance Of Block"
+    ],
+    "text": "% de Chance Extra de Bloqueio"
+  },
+  {
+    "id": 380,
+    "sources": [
+      "% Reduced Item Requirements"
+    ],
+    "text": "% de Redução nos Requisitos dos Itens"
+  },
+  {
+    "id": 381,
+    "sources": [
+      "% Piercing Resistance"
+    ],
+    "text": "% Resistência a Perfuração"
+  },
+  {
+    "id": 382,
+    "sources": [
+      "% Slashing Resistance"
+    ],
+    "text": "% Resistência a Corte"
+  },
+  {
+    "id": 383,
+    "sources": [
+      "% Crushing Resistance"
+    ],
+    "text": "% Resistência a Impacto"
+  },
+  {
+    "id": 384,
+    "sources": [
+      "% Magical Resistance"
+    ],
+    "text": "% Resistência a Magia"
+  },
+  {
+    "id": 385,
+    "sources": [
+      "% Fire Resistance"
+    ],
+    "text": "% Resistência a Fogo"
+  },
+  {
+    "id": 386,
+    "sources": [
+      "% Ice Resistance"
+    ],
+    "text": "% Resistência a Gelo"
+  },
+  {
+    "id": 387,
+    "sources": [
+      "% Electric Resistance"
+    ],
+    "text": "% Resistência a Eletricidade"
+  },
+  {
+    "id": 388,
+    "sources": [
+      "N/A"
+    ],
+    "text": "N/D"
+  },
+  {
+    "id": 389,
+    "sources": [
+      "Remove Effect"
+    ],
+    "text": "Remover Efeito"
+  },
+  {
+    "id": 390,
+    "sources": [
+      "Knockback Effect"
+    ],
+    "text": "Efeito de Repulsão"
+  },
+  {
+    "id": 391,
+    "sources": [
+      "Identify Item"
+    ],
+    "text": "Identificar Item"
+  },
+  {
+    "id": 392,
+    "sources": [
+      "Write Spell"
+    ],
+    "text": "Aprender Magia"
+  },
+  {
+    "id": 393,
+    "sources": [
+      "Summon Creature"
+    ],
+    "text": "Invocar Criatura"
+  },
+  {
+    "id": 394,
+    "sources": [
+      "Add Elemental Damage"
+    ],
+    "text": "Adicionar Dano Elemental"
+  },
+  {
+    "id": 395,
+    "sources": [
+      "Transform Creature"
+    ],
+    "text": "Transformar Criatura"
+  },
+  {
+    "id": 396,
+    "sources": [
+      "Revert Transformation"
+    ],
+    "text": "Reverter Transformação"
+  },
+  {
+    "id": 397,
+    "sources": [
+      "Opens Town Portal"
+    ],
+    "text": "Abre um Portal da Cidade"
+  },
+  {
+    "id": 398,
+    "sources": [
+      "Discover Current Dungeon Level"
+    ],
+    "text": "Revelar o Andar Atual da Masmorra"
+  },
+  {
+    "id": 399,
+    "sources": [
+      "Cause Target to Flee"
+    ],
+    "text": "Fazer o Alvo Fugir"
+  },
+  {
+    "id": 400,
+    "sources": [
+      "Charm Target"
+    ],
+    "text": "Encantar o Alvo"
+  },
+  {
+    "id": 401,
+    "sources": [
+      "Dispel Summoned Monster"
+    ],
+    "text": "Dissipar Monstro Invocado"
+  },
+  {
+    "id": 402,
+    "sources": [
+      "Dispel Summoned Enemy Monster"
+    ],
+    "text": "Dissipar Monstro Inimigo Invocado"
+  },
+  {
+    "id": 403,
+    "sources": [
+      "Strength Bonus"
+    ],
+    "text": "Bônus de Força"
+  },
+  {
+    "id": 404,
+    "sources": [
+      "Dexterity Bonus"
+    ],
+    "text": "Bônus de Destreza"
+  },
+  {
+    "id": 405,
+    "sources": [
+      "Vitality Bonus"
+    ],
+    "text": "Bônus de Vitalidade"
+  },
+  {
+    "id": 406,
+    "sources": [
+      "Magic Bonus"
+    ],
+    "text": "Bônus de Magia"
+  },
+  {
+    "id": 407,
+    "sources": [
+      "Mana Bonus"
+    ],
+    "text": "Bônus de Mana"
+  },
+  {
+    "id": 408,
+    "sources": [
+      "Life Bonus"
+    ],
+    "text": "Bônus de Vida"
+  },
+  {
+    "id": 409,
+    "sources": [
+      "Stamina"
+    ],
+    "text": "Vigor"
+  },
+  {
+    "id": 410,
+    "sources": [
+      "Mana Recovered"
+    ],
+    "text": "Mana Recuperada"
+  },
+  {
+    "id": 411,
+    "sources": [
+      "HP Recovered"
+    ],
+    "text": "Vida Recuperada"
+  },
+  {
+    "id": 412,
+    "sources": [
+      "Stamina Recovered"
+    ],
+    "text": "Vigor Recuperado"
+  },
+  {
+    "id": 413,
+    "sources": [
+      "Defense Bonus"
+    ],
+    "text": "Bônus de Defesa"
+  },
+  {
+    "id": 414,
+    "sources": [
+      "Attack Bonus"
+    ],
+    "text": "Bônus de Ataque"
+  },
+  {
+    "id": 415,
+    "sources": [
+      "Damage Dealt Bonus"
+    ],
+    "text": "Bônus de Dano Causado"
+  },
+  {
+    "id": 416,
+    "sources": [
+      "Damage Taken Reduced"
+    ],
+    "text": "Redução do Dano Recebido"
+  },
+  {
+    "id": 417,
+    "sources": [
+      "Knockback"
+    ],
+    "text": "Repulsão"
+  },
+  {
+    "id": 418,
+    "sources": [
+      "Sword Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade com Espadas"
+  },
+  {
+    "id": 419,
+    "sources": [
+      "Club & Mace Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade com Clavas e Maças"
+  },
+  {
+    "id": 420,
+    "sources": [
+      "Hammer Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade com Martelos"
+  },
+  {
+    "id": 421,
+    "sources": [
+      "Axe Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade com Machados"
+  },
+  {
+    "id": 422,
+    "sources": [
+      "Spear Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade com Lanças"
+  },
+  {
+    "id": 423,
+    "sources": [
+      "Staff Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade com Cajados"
+  },
+  {
+    "id": 424,
+    "sources": [
+      "Polearm Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade com Armas de Haste"
+  },
+  {
+    "id": 425,
+    "sources": [
+      "Bow & Crossbow Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade com Arcos e Bestas"
+  },
+  {
+    "id": 426,
+    "sources": [
+      "Critical Strike Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade de Golpe Crítico"
+  },
+  {
+    "id": 427,
+    "sources": [
+      "Spell Casting Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade de Conjuração"
+  },
+  {
+    "id": 428,
+    "sources": [
+      "Dual-Wielding Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade com Duas Armas"
+  },
+  {
+    "id": 429,
+    "sources": [
+      "Shield Battle Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade de Combate com Escudo"
+  },
+  {
+    "id": 430,
+    "sources": [
+      "Attack Magic Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade de Magia de Ataque"
+  },
+  {
+    "id": 431,
+    "sources": [
+      "Defense Magic Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade de Magia de Defesa"
+  },
+  {
+    "id": 432,
+    "sources": [
+      "Charm Magic Skill Bonus"
+    ],
+    "text": "Bônus de Habilidade de Magia de Encantamento"
+  },
+  {
+    "id": 433,
+    "sources": [
+      "% Strength Bonus"
+    ],
+    "text": "% Bônus de Força"
+  },
+  {
+    "id": 434,
+    "sources": [
+      "% Dexterity Bonus"
+    ],
+    "text": "% Bônus de Destreza"
+  },
+  {
+    "id": 435,
+    "sources": [
+      "% Vitality Bonus"
+    ],
+    "text": "% Bônus de Vitalidade"
+  },
+  {
+    "id": 436,
+    "sources": [
+      "% Magic Bonus"
+    ],
+    "text": "% Bônus de Magia"
+  },
+  {
+    "id": 437,
+    "sources": [
+      "% Mana Bonus"
+    ],
+    "text": "% Bônus de Mana"
+  },
+  {
+    "id": 438,
+    "sources": [
+      "% Life Bonus"
+    ],
+    "text": "% Bônus de Vida"
+  },
+  {
+    "id": 439,
+    "sources": [
+      "% Stamina Bonus"
+    ],
+    "text": "% Bônus de Vigor"
+  },
+  {
+    "id": 440,
+    "sources": [
+      "% Movement Speed Bonus"
+    ],
+    "text": "% Bônus de Velocidade de Movimento"
+  },
+  {
+    "id": 441,
+    "sources": [
+      "% Attack Speed Bonus"
+    ],
+    "text": "% Bônus de Velocidade de Ataque"
+  },
+  {
+    "id": 442,
+    "sources": [
+      "% Defense Bonus"
+    ],
+    "text": "% Bônus de Defesa"
+  },
+  {
+    "id": 443,
+    "sources": [
+      "% Attack Bonus"
+    ],
+    "text": "% Bônus de Ataque"
+  },
+  {
+    "id": 444,
+    "sources": [
+      "% Damage Dealt Bonus"
+    ],
+    "text": "% Bônus de Dano Causado"
+  },
+  {
+    "id": 445,
+    "sources": [
+      "% Damage Taken Reduced"
+    ],
+    "text": "% Redução do Dano Recebido"
+  },
+  {
+    "id": 446,
+    "sources": [
+      "% Chance of Finding Magical Items"
+    ],
+    "text": "% de Chance de Encontrar Itens Mágicos"
+  },
+  {
+    "id": 447,
+    "sources": [
+      "% More Gold Dropped By Enemies"
+    ],
+    "text": "% de Ouro Extra Deixado por Inimigos"
+  },
+  {
+    "id": 448,
+    "sources": [
+      "% Faster Casting Speed"
+    ],
+    "text": "% de Velocidade Extra de Conjuração"
+  },
+  {
+    "id": 449,
+    "sources": [
+      "% Life Stolen Per Hit"
+    ],
+    "text": "% de Vida Roubada por Golpe"
+  },
+  {
+    "id": 450,
+    "sources": [
+      "% Mana Stolen Per Hit"
+    ],
+    "text": "% de Mana Roubada por Golpe"
+  },
+  {
+    "id": 451,
+    "sources": [
+      "% Damage Reflected To Enemy"
+    ],
+    "text": "% de Dano Refletido ao Inimigo"
+  },
+  {
+    "id": 452,
+    "sources": [
+      "% Improved Chance Of Block"
+    ],
+    "text": "% de Chance Extra de Bloqueio"
+  },
+  {
+    "id": 453,
+    "sources": [
+      "% Reduced Item Requirements"
+    ],
+    "text": "% de Redução nos Requisitos dos Itens"
+  },
+  {
+    "id": 454,
+    "sources": [
+      "% Piercing Resistance Bonus"
+    ],
+    "text": "% Bônus de Resistência a Perfuração"
+  },
+  {
+    "id": 455,
+    "sources": [
+      "% Slashing Resistance Bonus"
+    ],
+    "text": "% Bônus de Resistência a Corte"
+  },
+  {
+    "id": 456,
+    "sources": [
+      "% Crushing Resistance Bonus"
+    ],
+    "text": "% Bônus de Resistência a Impacto"
+  },
+  {
+    "id": 457,
+    "sources": [
+      "% Magical Resistance Bonus"
+    ],
+    "text": "% Bônus de Resistência a Magia"
+  },
+  {
+    "id": 458,
+    "sources": [
+      "% Fire Resistance Bonus"
+    ],
+    "text": "% Bônus de Resistência a Fogo"
+  },
+  {
+    "id": 459,
+    "sources": [
+      "% Ice Resistance Bonus"
+    ],
+    "text": "% Bônus de Resistência a Gelo"
+  },
+  {
+    "id": 460,
+    "sources": [
+      "% Electric Resistance Bonus"
+    ],
+    "text": "% Bônus de Resistência a Eletricidade"
+  },
+  {
+    "id": 461,
+    "sources": [
+      "N/A"
+    ],
+    "text": "N/D"
+  },
+  {
+    "id": 462,
+    "sources": [
+      "Remove Effect"
+    ],
+    "text": "Remover Efeito"
+  },
+  {
+    "id": 463,
+    "sources": [
+      "Knockback Effect"
+    ],
+    "text": "Efeito de Repulsão"
+  },
+  {
+    "id": 464,
+    "sources": [
+      "Identify Item"
+    ],
+    "text": "Identificar Item"
+  },
+  {
+    "id": 465,
+    "sources": [
+      "Write Spell"
+    ],
+    "text": "Aprender Magia"
+  },
+  {
+    "id": 466,
+    "sources": [
+      "Summon Creature"
+    ],
+    "text": "Invocar Criatura"
+  },
+  {
+    "id": 467,
+    "sources": [
+      "Add Elemental Damage"
+    ],
+    "text": "Adicionar Dano Elemental"
+  },
+  {
+    "id": 468,
+    "sources": [
+      "Transform Creature"
+    ],
+    "text": "Transformar Criatura"
+  },
+  {
+    "id": 469,
+    "sources": [
+      "Revert Transformation"
+    ],
+    "text": "Reverter Transformação"
+  },
+  {
+    "id": 470,
+    "sources": [
+      "Opens Town Portal"
+    ],
+    "text": "Abre um Portal da Cidade"
+  },
+  {
+    "id": 471,
+    "sources": [
+      "Discover Current Level"
+    ],
+    "text": "Revelar o Andar Atual"
+  },
+  {
+    "id": 472,
+    "sources": [
+      "Cause Target to Flee"
+    ],
+    "text": "Fazer o Alvo Fugir"
+  },
+  {
+    "id": 473,
+    "sources": [
+      "Charm Target"
+    ],
+    "text": "Encantar o Alvo"
+  },
+  {
+    "id": 474,
+    "sources": [
+      "Dispel Summoned Monster"
+    ],
+    "text": "Dissipar Monstro Invocado"
+  },
+  {
+    "id": 475,
+    "sources": [
+      "Strength Penalty"
+    ],
+    "text": "Penalidade de Força"
+  },
+  {
+    "id": 476,
+    "sources": [
+      "Dexterity Penalty"
+    ],
+    "text": "Penalidade de Destreza"
+  },
+  {
+    "id": 477,
+    "sources": [
+      "Vitality Penalty"
+    ],
+    "text": "Penalidade de Vitalidade"
+  },
+  {
+    "id": 478,
+    "sources": [
+      "Magic Penalty"
+    ],
+    "text": "Penalidade de Magia"
+  },
+  {
+    "id": 479,
+    "sources": [
+      "Mana Penalty"
+    ],
+    "text": "Penalidade de Mana"
+  },
+  {
+    "id": 480,
+    "sources": [
+      "Life Penalty"
+    ],
+    "text": "Penalidade de Vida"
+  },
+  {
+    "id": 481,
+    "sources": [
+      "Stamina Penalty"
+    ],
+    "text": "Penalidade de Vigor"
+  },
+  {
+    "id": 482,
+    "sources": [
+      "Mana Drained"
+    ],
+    "text": "Mana Drenada"
+  },
+  {
+    "id": 483,
+    "sources": [
+      "HP Damage"
+    ],
+    "text": "Dano à Vida"
+  },
+  {
+    "id": 484,
+    "sources": [
+      "Stamina Drained"
+    ],
+    "text": "Vigor Drenado"
+  },
+  {
+    "id": 485,
+    "sources": [
+      "Defense Penalty"
+    ],
+    "text": "Penalidade de Defesa"
+  },
+  {
+    "id": 486,
+    "sources": [
+      "Attack Penalty"
+    ],
+    "text": "Penalidade de Ataque"
+  },
+  {
+    "id": 487,
+    "sources": [
+      "Damage Dealt Penalty"
+    ],
+    "text": "Penalidade de Dano Causado"
+  },
+  {
+    "id": 488,
+    "sources": [
+      "Damage Taken Increased"
+    ],
+    "text": "Aumento do Dano Recebido"
+  },
+  {
+    "id": 489,
+    "sources": [
+      "Knockback"
+    ],
+    "text": "Repulsão"
+  },
+  {
+    "id": 490,
+    "sources": [
+      "Sword Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade com Espadas"
+  },
+  {
+    "id": 491,
+    "sources": [
+      "Club & Mace Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade com Clavas e Maças"
+  },
+  {
+    "id": 492,
+    "sources": [
+      "Hammer Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade com Martelos"
+  },
+  {
+    "id": 493,
+    "sources": [
+      "Axe Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade com Machados"
+  },
+  {
+    "id": 494,
+    "sources": [
+      "Spear Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade com Lanças"
+  },
+  {
+    "id": 495,
+    "sources": [
+      "Staff Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade com Cajados"
+  },
+  {
+    "id": 496,
+    "sources": [
+      "Polearm Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade com Armas de Haste"
+  },
+  {
+    "id": 497,
+    "sources": [
+      "Bow & Crossbow Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade com Arcos e Bestas"
+  },
+  {
+    "id": 498,
+    "sources": [
+      "Critical Strike Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade de Golpe Crítico"
+  },
+  {
+    "id": 499,
+    "sources": [
+      "Spell Casting Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade de Conjuração"
+  },
+  {
+    "id": 500,
+    "sources": [
+      "Dual-Wielding Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade com Duas Armas"
+  },
+  {
+    "id": 501,
+    "sources": [
+      "Shield Battle Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade de Combate com Escudo"
+  },
+  {
+    "id": 502,
+    "sources": [
+      "Attack Magic Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade de Magia de Ataque"
+  },
+  {
+    "id": 503,
+    "sources": [
+      "Defense Magic Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade de Magia de Defesa"
+  },
+  {
+    "id": 504,
+    "sources": [
+      "Charm Magic Skill Penalty"
+    ],
+    "text": "Penalidade de Habilidade de Magia de Encantamento"
+  },
+  {
+    "id": 505,
+    "sources": [
+      "% Strength Penalty"
+    ],
+    "text": "% Penalidade de Força"
+  },
+  {
+    "id": 506,
+    "sources": [
+      "% Dexterity Penalty"
+    ],
+    "text": "% Penalidade de Destreza"
+  },
+  {
+    "id": 507,
+    "sources": [
+      "% Vitality Penalty"
+    ],
+    "text": "% Penalidade de Vitalidade"
+  },
+  {
+    "id": 508,
+    "sources": [
+      "% Magic Penalty"
+    ],
+    "text": "% Penalidade de Magia"
+  },
+  {
+    "id": 509,
+    "sources": [
+      "% Mana Penalty"
+    ],
+    "text": "% Penalidade de Mana"
+  },
+  {
+    "id": 510,
+    "sources": [
+      "% Life Penalty"
+    ],
+    "text": "% Penalidade de Vida"
+  },
+  {
+    "id": 511,
+    "sources": [
+      "% Stamina Penalty"
+    ],
+    "text": "% Penalidade de Vigor"
+  },
+  {
+    "id": 512,
+    "sources": [
+      "% Movement Speed Penalty"
+    ],
+    "text": "% Penalidade de Velocidade de Movimento"
+  },
+  {
+    "id": 513,
+    "sources": [
+      "% Attack Speed Penalty"
+    ],
+    "text": "% Penalidade de Velocidade de Ataque"
+  },
+  {
+    "id": 514,
+    "sources": [
+      "% Defense Penalty"
+    ],
+    "text": "% Penalidade de Defesa"
+  },
+  {
+    "id": 515,
+    "sources": [
+      "% Attack Penalty"
+    ],
+    "text": "% Penalidade de Ataque"
+  },
+  {
+    "id": 516,
+    "sources": [
+      "% Damage Dealt Penalty"
+    ],
+    "text": "% Penalidade de Dano Causado"
+  },
+  {
+    "id": 517,
+    "sources": [
+      "% Damage Taken Increased"
+    ],
+    "text": "% Aumento do Dano Recebido"
+  },
+  {
+    "id": 518,
+    "sources": [
+      "% Reduced Chance of Finding Magical Items"
+    ],
+    "text": "% de Redução na Chance de Encontrar Itens Mágicos"
+  },
+  {
+    "id": 519,
+    "sources": [
+      "% Less Gold Dropped By Enemies"
+    ],
+    "text": "% de Redução no Ouro Deixado por Inimigos"
+  },
+  {
+    "id": 520,
+    "sources": [
+      "% Slower Casting Speed"
+    ],
+    "text": "% de Redução na Velocidade de Conjuração"
+  },
+  {
+    "id": 521,
+    "sources": [
+      "% Life Drained Per Hit"
+    ],
+    "text": "% de Vida Drenada por Golpe"
+  },
+  {
+    "id": 522,
+    "sources": [
+      "% Mana Drained Per Hit"
+    ],
+    "text": "% de Mana Drenada por Golpe"
+  },
+  {
+    "id": 523,
+    "sources": [
+      "% Damage Reflected To Enemy"
+    ],
+    "text": "% de Dano Refletido ao Inimigo"
+  },
+  {
+    "id": 524,
+    "sources": [
+      "% Reduced Chance Of Block"
+    ],
+    "text": "% de Redução na Chance de Bloqueio"
+  },
+  {
+    "id": 525,
+    "sources": [
+      "% Increased Item Requirements"
+    ],
+    "text": "% de Aumento nos Requisitos dos Itens"
+  },
+  {
+    "id": 526,
+    "sources": [
+      "% Piercing Resistance Penalty"
+    ],
+    "text": "% Penalidade de Resistência a Perfuração"
+  },
+  {
+    "id": 527,
+    "sources": [
+      "% Slashing Resistance Penalty"
+    ],
+    "text": "% Penalidade de Resistência a Corte"
+  },
+  {
+    "id": 528,
+    "sources": [
+      "% Crushing Resistance Penalty"
+    ],
+    "text": "% Penalidade de Resistência a Impacto"
+  },
+  {
+    "id": 529,
+    "sources": [
+      "% Magical Resistance Penalty"
+    ],
+    "text": "% Penalidade de Resistência a Magia"
+  },
+  {
+    "id": 530,
+    "sources": [
+      "% Fire Resistance Penalty"
+    ],
+    "text": "% Penalidade de Resistência a Fogo"
+  },
+  {
+    "id": 531,
+    "sources": [
+      "% Ice Resistance Penalty"
+    ],
+    "text": "% Penalidade de Resistência a Gelo"
+  },
+  {
+    "id": 532,
+    "sources": [
+      "% Electric Resistance Penalty"
+    ],
+    "text": "% Penalidade de Resistência a Eletricidade"
+  },
+  {
+    "id": 533,
+    "sources": [
+      "N/A"
+    ],
+    "text": "N/D"
+  },
+  {
+    "id": 534,
+    "sources": [
+      "Remove Effect"
+    ],
+    "text": "Remover Efeito"
+  },
+  {
+    "id": 535,
+    "sources": [
+      "Knockback Effect"
+    ],
+    "text": "Efeito de Repulsão"
+  },
+  {
+    "id": 536,
+    "sources": [
+      "Identify Item"
+    ],
+    "text": "Identificar Item"
+  },
+  {
+    "id": 537,
+    "sources": [
+      "Write Spell"
+    ],
+    "text": "Aprender Magia"
+  },
+  {
+    "id": 538,
+    "sources": [
+      "Summon Creature"
+    ],
+    "text": "Invocar Criatura"
+  },
+  {
+    "id": 539,
+    "sources": [
+      "Add Elemental Damage"
+    ],
+    "text": "Adicionar Dano Elemental"
+  },
+  {
+    "id": 540,
+    "sources": [
+      "Transform Creature"
+    ],
+    "text": "Transformar Criatura"
+  },
+  {
+    "id": 541,
+    "sources": [
+      "Revert Transformation"
+    ],
+    "text": "Reverter Transformação"
+  },
+  {
+    "id": 542,
+    "sources": [
+      "Opens Town Portal"
+    ],
+    "text": "Abre um Portal da Cidade"
+  },
+  {
+    "id": 543,
+    "sources": [
+      "Discover Current Level"
+    ],
+    "text": "Revelar o Andar Atual"
+  },
+  {
+    "id": 544,
+    "sources": [
+      "Cause Target to Flee"
+    ],
+    "text": "Fazer o Alvo Fugir"
+  },
+  {
+    "id": 545,
+    "sources": [
+      "Charm Target"
+    ],
+    "text": "Encantar o Alvo"
+  },
+  {
+    "id": 546,
+    "sources": [
+      "Dispel Summoned Monster"
+    ],
+    "text": "Dissipar Monstro Invocado"
+  },
+  {
+    "id": 547,
+    "sources": [
+      "Dispel Summoned Enemy Monster"
+    ],
+    "text": "Dissipar Monstro Inimigo Invocado"
+  },
+  {
+    "id": 548,
+    "sources": [
+      "Strong"
+    ],
+    "text": "Forte"
+  },
+  {
+    "id": 549,
+    "sources": [
+      "Mighty"
+    ],
+    "text": "Poderoso"
+  },
+  {
+    "id": 550,
+    "sources": [
+      "Legendary",
+      "Legendary "
+    ],
+    "text": "Lendário"
+  },
+  {
+    "id": 551,
+    "sources": [
+      "Titanic"
+    ],
+    "text": "Titânico"
+  },
+  {
+    "id": 552,
+    "sources": [
+      "Godly"
+    ],
+    "text": "Divino"
+  },
+  {
+    "id": 553,
+    "sources": [
+      "Nimble"
+    ],
+    "text": "Ágil"
+  },
+  {
+    "id": 554,
+    "sources": [
+      "Quick"
+    ],
+    "text": "Veloz"
+  },
+  {
+    "id": 555,
+    "sources": [
+      "Swift"
+    ],
+    "text": "Ligeiro"
+  },
+  {
+    "id": 556,
+    "sources": [
+      "Blinding"
+    ],
+    "text": "Ofuscante"
+  },
+  {
+    "id": 557,
+    "sources": [
+      "Humming"
+    ],
+    "text": "Vibrante"
+  },
+  {
+    "id": 558,
+    "sources": [
+      "Heavy"
+    ],
+    "text": "Pesado"
+  },
+  {
+    "id": 559,
+    "sources": [
+      "Crushing"
+    ],
+    "text": "Esmagador"
+  },
+  {
+    "id": 560,
+    "sources": [
+      "Barbaric"
+    ],
+    "text": "Bárbaro"
+  },
+  {
+    "id": 561,
+    "sources": [
+      "Deep"
+    ],
+    "text": "Profundo"
+  },
+  {
+    "id": 562,
+    "sources": [
+      "Robust"
+    ],
+    "text": "Robusto"
+  },
+  {
+    "id": 563,
+    "sources": [
+      "Lighted"
+    ],
+    "text": "Iluminado"
+  },
+  {
+    "id": 564,
+    "sources": [
+      "Ancient"
+    ],
+    "text": "Antigo"
+  },
+  {
+    "id": 565,
+    "sources": [
+      "Runic"
+    ],
+    "text": "Rúnico"
+  },
+  {
+    "id": 566,
+    "sources": [
+      "Charmed"
+    ],
+    "text": "Encantado"
+  },
+  {
+    "id": 567,
+    "sources": [
+      "Wrought"
+    ],
+    "text": "Forjado"
+  },
+  {
+    "id": 568,
+    "sources": [
+      "Gilded"
+    ],
+    "text": "Dourado"
+  },
+  {
+    "id": 569,
+    "sources": [
+      "Jeweled",
+      "Jewelled"
+    ],
+    "text": "Ornamentado"
+  },
+  {
+    "id": 570,
+    "sources": [
+      "Gemmed"
+    ],
+    "text": "Cravejado"
+  },
+  {
+    "id": 571,
+    "sources": [
+      "Encrusted"
+    ],
+    "text": "Incrustado"
+  },
+  {
+    "id": 572,
+    "sources": [
+      "Divine"
+    ],
+    "text": "Celestial"
+  },
+  {
+    "id": 573,
+    "sources": [
+      "Healthy"
+    ],
+    "text": "Saudável"
+  },
+  {
+    "id": 574,
+    "sources": [
+      "Hearty"
+    ],
+    "text": "Vigoroso"
+  },
+  {
+    "id": 576,
+    "sources": [
+      "Swarthy"
+    ],
+    "text": "Moreno"
+  },
+  {
+    "id": 577,
+    "sources": [
+      "Vigorous"
+    ],
+    "text": "Enérgico"
+  },
+  {
+    "id": 578,
+    "sources": [
+      "Hard"
+    ],
+    "text": "Duro"
+  },
+  {
+    "id": 579,
+    "sources": [
+      "Solid"
+    ],
+    "text": "Sólido"
+  },
+  {
+    "id": 580,
+    "sources": [
+      "Enduring"
+    ],
+    "text": "Duradouro"
+  },
+  {
+    "id": 581,
+    "sources": [
+      "Endless"
+    ],
+    "text": "Infinito"
+  },
+  {
+    "id": 582,
+    "sources": [
+      "Eternal"
+    ],
+    "text": "Eterno"
+  },
+  {
+    "id": 583,
+    "sources": [
+      "Shining"
+    ],
+    "text": "Brilhante"
+  },
+  {
+    "id": 584,
+    "sources": [
+      "Gleaming"
+    ],
+    "text": "Reluzente"
+  },
+  {
+    "id": 585,
+    "sources": [
+      "Glittering"
+    ],
+    "text": "Cintilante"
+  },
+  {
+    "id": 586,
+    "sources": [
+      "Glowing"
+    ],
+    "text": "Radiante"
+  },
+  {
+    "id": 587,
+    "sources": [
+      "Shimmering"
+    ],
+    "text": "Resplandecente"
+  },
+  {
+    "id": 588,
+    "sources": [
+      "Soothing"
+    ],
+    "text": "Reconfortante"
+  },
+  {
+    "id": 589,
+    "sources": [
+      "Healing"
+    ],
+    "text": "Regenerador"
+  },
+  {
+    "id": 590,
+    "sources": [
+      "Curing"
+    ],
+    "text": "Curativo"
+  },
+  {
+    "id": 592,
+    "sources": [
+      "Miraculous"
+    ],
+    "text": "Milagroso"
+  },
+  {
+    "id": 593,
+    "sources": [
+      "Horse's"
+    ],
+    "text": "do Cavalo"
+  },
+  {
+    "id": 594,
+    "sources": [
+      "Antelope's"
+    ],
+    "text": "do Antílope"
+  },
+  {
+    "id": 595,
+    "sources": [
+      "Gazelle's"
+    ],
+    "text": "da Gazela"
+  },
+  {
+    "id": 596,
+    "sources": [
+      "Cheeta's"
+    ],
+    "text": "do Guepardo"
+  },
+  {
+    "id": 597,
+    "sources": [
+      "Lightning's"
+    ],
+    "text": "do Relâmpago"
+  },
+  {
+    "id": 598,
+    "sources": [
+      "Hardened"
+    ],
+    "text": "Endurecido"
+  },
+  {
+    "id": 599,
+    "sources": [
+      "Hammered"
+    ],
+    "text": "Martelado"
+  },
+  {
+    "id": 600,
+    "sources": [
+      "Thickened"
+    ],
+    "text": "Espesso"
+  },
+  {
+    "id": 601,
+    "sources": [
+      "Plated"
+    ],
+    "text": "Revestido"
+  },
+  {
+    "id": 602,
+    "sources": [
+      "Crafted"
+    ],
+    "text": "Trabalhado"
+  },
+  {
+    "id": 603,
+    "sources": [
+      "Guiding"
+    ],
+    "text": "Orientador"
+  },
+  {
+    "id": 604,
+    "sources": [
+      "Aiding"
+    ],
+    "text": "Auxiliador"
+  },
+  {
+    "id": 605,
+    "sources": [
+      "Accurate"
+    ],
+    "text": "Preciso"
+  },
+  {
+    "id": 606,
+    "sources": [
+      "Targeted"
+    ],
+    "text": "Certeiro"
+  },
+  {
+    "id": 607,
+    "sources": [
+      "Enchanted"
+    ],
+    "text": "Encantado"
+  },
+  {
+    "id": 608,
+    "sources": [
+      "Smiting"
+    ],
+    "text": "Fulminante"
+  },
+  {
+    "id": 609,
+    "sources": [
+      "Piercing"
+    ],
+    "text": "Perfurante"
+  },
+  {
+    "id": 610,
+    "sources": [
+      "Destroying"
+    ],
+    "text": "Destruidor"
+  },
+  {
+    "id": 611,
+    "sources": [
+      "Grinding"
+    ],
+    "text": "Triturador"
+  },
+  {
+    "id": 612,
+    "sources": [
+      "Mashing"
+    ],
+    "text": "Massacrante"
+  },
+  {
+    "id": 613,
+    "sources": [
+      "Shielding"
+    ],
+    "text": "Defensor"
+  },
+  {
+    "id": 614,
+    "sources": [
+      "Protecting"
+    ],
+    "text": "Protetor"
+  },
+  {
+    "id": 615,
+    "sources": [
+      "Auraed"
+    ],
+    "text": "Áurico"
+  },
+  {
+    "id": 616,
+    "sources": [
+      "Benevolent"
+    ],
+    "text": "Benevolente"
+  },
+  {
+    "id": 617,
+    "sources": [
+      "Blessed"
+    ],
+    "text": "Abençoado"
+  },
+  {
+    "id": 618,
+    "sources": [
+      "Forceful"
+    ],
+    "text": "Vigoroso"
+  },
+  {
+    "id": 619,
+    "sources": [
+      "Thrusting"
+    ],
+    "text": "Penetrante"
+  },
+  {
+    "id": 620,
+    "sources": [
+      "Hammering"
+    ],
+    "text": "Demolidor"
+  },
+  {
+    "id": 621,
+    "sources": [
+      "Blasting"
+    ],
+    "text": "Explosivo"
+  },
+  {
+    "id": 622,
+    "sources": [
+      "Hurling"
+    ],
+    "text": "Arremessador"
+  },
+  {
+    "id": 623,
+    "sources": [
+      "Novice's"
+    ],
+    "text": "do Novato"
+  },
+  {
+    "id": 624,
+    "sources": [
+      "Disciple's"
+    ],
+    "text": "do Discípulo"
+  },
+  {
+    "id": 625,
+    "sources": [
+      "Journeyman's"
+    ],
+    "text": "do Aprendiz"
+  },
+  {
+    "id": 626,
+    "sources": [
+      "Craftsman's"
+    ],
+    "text": "do Artesão"
+  },
+  {
+    "id": 627,
+    "sources": [
+      "Master's"
+    ],
+    "text": "do Mestre"
+  },
+  {
+    "id": 628,
+    "sources": [
+      "Strength"
+    ],
+    "text": "Força"
+  },
+  {
+    "id": 629,
+    "sources": [
+      "Might"
+    ],
+    "text": "Vigor"
+  },
+  {
+    "id": 630,
+    "sources": [
+      "Power"
+    ],
+    "text": "Poder"
+  },
+  {
+    "id": 631,
+    "sources": [
+      "Giants"
+    ],
+    "text": "Gigantes"
+  },
+  {
+    "id": 632,
+    "sources": [
+      "Titans"
+    ],
+    "text": "Titãs"
+  },
+  {
+    "id": 633,
+    "sources": [
+      "Dexterity"
+    ],
+    "text": "Destreza"
+  },
+  {
+    "id": 634,
+    "sources": [
+      "Quickness"
+    ],
+    "text": "Rapidez"
+  },
+  {
+    "id": 635,
+    "sources": [
+      "Dodging"
+    ],
+    "text": "Esquiva"
+  },
+  {
+    "id": 636,
+    "sources": [
+      "Avoidance"
+    ],
+    "text": "Evasão"
+  },
+  {
+    "id": 637,
+    "sources": [
+      "Blur"
+    ],
+    "text": "Vulto"
+  },
+  {
+    "id": 638,
+    "sources": [
+      "Life",
+      "Life "
+    ],
+    "text": "Vida"
+  },
+  {
+    "id": 639,
+    "sources": [
+      "Vitality"
+    ],
+    "text": "Vitalidade"
+  },
+  {
+    "id": 640,
+    "sources": [
+      "Force"
+    ],
+    "text": "Energia"
+  },
+  {
+    "id": 641,
+    "sources": [
+      "Health"
+    ],
+    "text": "Saúde"
+  },
+  {
+    "id": 642,
+    "sources": [
+      "Immortality"
+    ],
+    "text": "Imortalidade"
+  },
+  {
+    "id": 643,
+    "sources": [
+      "the Crone"
+    ],
+    "text": "Anciã"
+  },
+  {
+    "id": 644,
+    "sources": [
+      "the Mage"
+    ],
+    "text": "Mago"
+  },
+  {
+    "id": 645,
+    "sources": [
+      "the Wizard"
+    ],
+    "text": "Bruxo"
+  },
+  {
+    "id": 646,
+    "sources": [
+      "the Sorceror",
+      "the Sorcerer"
+    ],
+    "text": "Feiticeiro"
+  },
+  {
+    "id": 647,
+    "sources": [
+      "the Enchanter"
+    ],
+    "text": "Encantador"
+  },
+  {
+    "id": 648,
+    "sources": [
+      "Seasons"
+    ],
+    "text": "Estações"
+  },
+  {
+    "id": 649,
+    "sources": [
+      "Years"
+    ],
+    "text": "Anos"
+  },
+  {
+    "id": 650,
+    "sources": [
+      "Ages"
+    ],
+    "text": "Eras"
+  },
+  {
+    "id": 651,
+    "sources": [
+      "Aeons"
+    ],
+    "text": "Éons"
+  },
+  {
+    "id": 652,
+    "sources": [
+      "Epochs"
+    ],
+    "text": "Épocas"
+  },
+  {
+    "id": 653,
+    "sources": [
+      "the Fox"
+    ],
+    "text": "Raposa"
+  },
+  {
+    "id": 654,
+    "sources": [
+      "the Jaguar"
+    ],
+    "text": "Onça"
+  },
+  {
+    "id": 655,
+    "sources": [
+      "the Eagle"
+    ],
+    "text": "Águia"
+  },
+  {
+    "id": 656,
+    "sources": [
+      "the Wolf"
+    ],
+    "text": "Lobo"
+  },
+  {
+    "id": 657,
+    "sources": [
+      "the Tiger"
+    ],
+    "text": "Tigre"
+  },
+  {
+    "id": 658,
+    "sources": [
+      "the Tortoise"
+    ],
+    "text": "Tartaruga"
+  },
+  {
+    "id": 659,
+    "sources": [
+      "the Tusk"
+    ],
+    "text": "Presa"
+  },
+  {
+    "id": 660,
+    "sources": [
+      "the Rhino"
+    ],
+    "text": "Rinoceronte"
+  },
+  {
+    "id": 661,
+    "sources": [
+      "the Giant"
+    ],
+    "text": "Gigante"
+  },
+  {
+    "id": 662,
+    "sources": [
+      "the Leviathan"
+    ],
+    "text": "Leviatã"
+  },
+  {
+    "id": 663,
+    "sources": [
+      "the Hare"
+    ],
+    "text": "Lebre"
+  },
+  {
+    "id": 664,
+    "sources": [
+      "the Lizard"
+    ],
+    "text": "Lagarto"
+  },
+  {
+    "id": 665,
+    "sources": [
+      "the Cheetah"
+    ],
+    "text": "Guepardo"
+  },
+  {
+    "id": 666,
+    "sources": [
+      "Lightning"
+    ],
+    "text": "Relâmpago"
+  },
+  {
+    "id": 667,
+    "sources": [
+      "Light"
+    ],
+    "text": "Luz"
+  },
+  {
+    "id": 668,
+    "sources": [
+      "the Grand"
+    ],
+    "text": "Grandioso"
+  },
+  {
+    "id": 669,
+    "sources": [
+      "the Mighty"
+    ],
+    "text": "Poderoso"
+  },
+  {
+    "id": 670,
+    "sources": [
+      "the Chivalrous"
+    ],
+    "text": "Cavaleiro"
+  },
+  {
+    "id": 671,
+    "sources": [
+      "the Legendary"
+    ],
+    "text": "Lendário"
+  },
+  {
+    "id": 672,
+    "sources": [
+      "the Gods"
+    ],
+    "text": "Deuses"
+  },
+  {
+    "id": 673,
+    "sources": [
+      "Stone"
+    ],
+    "text": "Pedra"
+  },
+  {
+    "id": 674,
+    "sources": [
+      "the Plains"
+    ],
+    "text": "Planícies"
+  },
+  {
+    "id": 675,
+    "sources": [
+      "the Hills"
+    ],
+    "text": "Colinas"
+  },
+  {
+    "id": 676,
+    "sources": [
+      "the Mountains"
+    ],
+    "text": "Montanhas"
+  },
+  {
+    "id": 677,
+    "sources": [
+      "the Earth"
+    ],
+    "text": "Terra"
+  },
+  {
+    "id": 679,
+    "sources": [
+      "Iron"
+    ],
+    "text": "Ferro"
+  },
+  {
+    "id": 680,
+    "sources": [
+      "Steel"
+    ],
+    "text": "Aço"
+  },
+  {
+    "id": 681,
+    "sources": [
+      "Silver"
+    ],
+    "text": "Prata"
+  },
+  {
+    "id": 682,
+    "sources": [
+      "Gold"
+    ],
+    "text": "Ouro"
+  },
+  {
+    "id": 683,
+    "sources": [
+      "Warriors"
+    ],
+    "text": "Guerreiros"
+  },
+  {
+    "id": 684,
+    "sources": [
+      "Soldiers"
+    ],
+    "text": "Soldados"
+  },
+  {
+    "id": 685,
+    "sources": [
+      "Lords"
+    ],
+    "text": "Senhores"
+  },
+  {
+    "id": 686,
+    "sources": [
+      "Knights"
+    ],
+    "text": "Cavaleiros"
+  },
+  {
+    "id": 687,
+    "sources": [
+      "Mastery"
+    ],
+    "text": "Maestria"
+  },
+  {
+    "id": 688,
+    "sources": [
+      "Protection"
+    ],
+    "text": "Proteção"
+  },
+  {
+    "id": 689,
+    "sources": [
+      "Absorption"
+    ],
+    "text": "Absorção"
+  },
+  {
+    "id": 690,
+    "sources": [
+      "Deflection"
+    ],
+    "text": "Deflexão"
+  },
+  {
+    "id": 691,
+    "sources": [
+      "Glancing"
+    ],
+    "text": "Desvio"
+  },
+  {
+    "id": 692,
+    "sources": [
+      "Osmosis"
+    ],
+    "text": "Osmose"
+  },
+  {
+    "id": 693,
+    "sources": [
+      "Luck"
+    ],
+    "text": "Sorte"
+  },
+  {
+    "id": 694,
+    "sources": [
+      "Fortune"
+    ],
+    "text": "Fortuna"
+  },
+  {
+    "id": 695,
+    "sources": [
+      "Discovery"
+    ],
+    "text": "Descoberta"
+  },
+  {
+    "id": 697,
+    "sources": [
+      "Providence"
+    ],
+    "text": "Providência"
+  },
+  {
+    "id": 698,
+    "sources": [
+      "Greed"
+    ],
+    "text": "Ganância"
+  },
+  {
+    "id": 699,
+    "sources": [
+      "Wealth"
+    ],
+    "text": "Riqueza"
+  },
+  {
+    "id": 700,
+    "sources": [
+      "Prosperity"
+    ],
+    "text": "Prosperidade"
+  },
+  {
+    "id": 701,
+    "sources": [
+      "Affluence"
+    ],
+    "text": "Abundância"
+  },
+  {
+    "id": 702,
+    "sources": [
+      "Opulence"
+    ],
+    "text": "Opulência"
+  },
+  {
+    "id": 703,
+    "sources": [
+      "the Magician"
+    ],
+    "text": "Ilusionista"
+  },
+  {
+    "id": 704,
+    "sources": [
+      "the Conjurer"
+    ],
+    "text": "Conjurador"
+  },
+  {
+    "id": 705,
+    "sources": [
+      "the Mage"
+    ],
+    "text": "Mago"
+  },
+  {
+    "id": 706,
+    "sources": [
+      "the Wizard"
+    ],
+    "text": "Bruxo"
+  },
+  {
+    "id": 707,
+    "sources": [
+      "the Sorceror",
+      "the Sorcerer"
+    ],
+    "text": "Feiticeiro"
+  },
+  {
+    "id": 708,
+    "sources": [
+      "Sapping"
+    ],
+    "text": "Enfraquecimento"
+  },
+  {
+    "id": 709,
+    "sources": [
+      "Draining"
+    ],
+    "text": "Drenagem"
+  },
+  {
+    "id": 710,
+    "sources": [
+      "Deep Draughts"
+    ],
+    "text": "Sorvos Profundos"
+  },
+  {
+    "id": 711,
+    "sources": [
+      "Leeching"
+    ],
+    "text": "Sanguessuga"
+  },
+  {
+    "id": 712,
+    "sources": [
+      "the Vampire"
+    ],
+    "text": "Vampiro"
+  },
+  {
+    "id": 713,
+    "sources": [
+      "the Lizard"
+    ],
+    "text": "Lagarto"
+  },
+  {
+    "id": 714,
+    "sources": [
+      "the Snake"
+    ],
+    "text": "Cobra"
+  },
+  {
+    "id": 715,
+    "sources": [
+      "the Serpent"
+    ],
+    "text": "Serpente"
+  },
+  {
+    "id": 716,
+    "sources": [
+      "the Wyrm"
+    ],
+    "text": "Dragão Ancião"
+  },
+  {
+    "id": 717,
+    "sources": [
+      "the Dragon"
+    ],
+    "text": "Dragão"
+  },
+  {
+    "id": 718,
+    "sources": [
+      "Spines"
+    ],
+    "text": "Espinhos"
+  },
+  {
+    "id": 719,
+    "sources": [
+      "Spikes"
+    ],
+    "text": "Estacas"
+  },
+  {
+    "id": 720,
+    "sources": [
+      "Nails"
+    ],
+    "text": "Pregos"
+  },
+  {
+    "id": 721,
+    "sources": [
+      "Spears"
+    ],
+    "text": "Lanças"
+  },
+  {
+    "id": 722,
+    "sources": [
+      "Lances"
+    ],
+    "text": "Lanças de Cavalaria"
+  },
+  {
+    "id": 723,
+    "sources": [
+      "Blocking"
+    ],
+    "text": "Bloqueio"
+  },
+  {
+    "id": 724,
+    "sources": [
+      "Blocking"
+    ],
+    "text": "Bloqueio"
+  },
+  {
+    "id": 725,
+    "sources": [
+      "Blocking"
+    ],
+    "text": "Bloqueio"
+  },
+  {
+    "id": 726,
+    "sources": [
+      "Deflection"
+    ],
+    "text": "Deflexão"
+  },
+  {
+    "id": 727,
+    "sources": [
+      "Deflection"
+    ],
+    "text": "Deflexão"
+  },
+  {
+    "id": 728,
+    "sources": [
+      "Basics"
+    ],
+    "text": "Fundamentos"
+  },
+  {
+    "id": 729,
+    "sources": [
+      "Smoothness"
+    ],
+    "text": "Suavidade"
+  },
+  {
+    "id": 730,
+    "sources": [
+      "Facility"
+    ],
+    "text": "Facilidade"
+  },
+  {
+    "id": 731,
+    "sources": [
+      "Clarity"
+    ],
+    "text": "Clareza"
+  },
+  {
+    "id": 732,
+    "sources": [
+      "Lucidity"
+    ],
+    "text": "Lucidez"
+  },
+  {
+    "id": 733,
+    "sources": [
+      "Elements"
+    ],
+    "text": "Elementos"
+  },
+  {
+    "id": 734,
+    "sources": [
+      "Frail"
+    ],
+    "text": "Frágil"
+  },
+  {
+    "id": 735,
+    "sources": [
+      "Weak"
+    ],
+    "text": "Fraco"
+  },
+  {
+    "id": 736,
+    "sources": [
+      "Clumsy"
+    ],
+    "text": "Desajeitado"
+  },
+  {
+    "id": 737,
+    "sources": [
+      "Stumbling"
+    ],
+    "text": "Tropeçante"
+  },
+  {
+    "id": 738,
+    "sources": [
+      "Diseased"
+    ],
+    "text": "Doente"
+  },
+  {
+    "id": 739,
+    "sources": [
+      "Ill"
+    ],
+    "text": "Enfermo"
+  },
+  {
+    "id": 740,
+    "sources": [
+      "Foolish"
+    ],
+    "text": "Tolo"
+  },
+  {
+    "id": 741,
+    "sources": [
+      "Simpleton's"
+    ],
+    "text": "do Simplório"
+  },
+  {
+    "id": 742,
+    "sources": [
+      "Mindless"
+    ],
+    "text": "Insensato"
+  },
+  {
+    "id": 743,
+    "sources": [
+      "Fool's"
+    ],
+    "text": "do Tolo"
+  },
+  {
+    "id": 744,
+    "sources": [
+      "Drained"
+    ],
+    "text": "Drenado"
+  },
+  {
+    "id": 745,
+    "sources": [
+      "Corpse's"
+    ],
+    "text": "do Cadáver"
+  },
+  {
+    "id": 746,
+    "sources": [
+      "Exhausted"
+    ],
+    "text": "Exausto"
+  },
+  {
+    "id": 747,
+    "sources": [
+      "Weary"
+    ],
+    "text": "Cansado"
+  },
+  {
+    "id": 748,
+    "sources": [
+      "Stupefying"
+    ],
+    "text": "Entorpecente"
+  },
+  {
+    "id": 749,
+    "sources": [
+      "Lobotomizing"
+    ],
+    "text": "Embrutecedor"
+  },
+  {
+    "id": 750,
+    "sources": [
+      "Draining"
+    ],
+    "text": "Drenante"
+  },
+  {
+    "id": 751,
+    "sources": [
+      "Leeching"
+    ],
+    "text": "Sugante"
+  },
+  {
+    "id": 752,
+    "sources": [
+      "Quivering"
+    ],
+    "text": "Trêmulo"
+  },
+  {
+    "id": 753,
+    "sources": [
+      "Panting"
+    ],
+    "text": "Ofegante"
+  },
+  {
+    "id": 754,
+    "sources": [
+      "Brittle"
+    ],
+    "text": "Quebradiço"
+  },
+  {
+    "id": 755,
+    "sources": [
+      "Crumbling"
+    ],
+    "text": "Esfarelado"
+  },
+  {
+    "id": 756,
+    "sources": [
+      "Blind"
+    ],
+    "text": "Cego"
+  },
+  {
+    "id": 757,
+    "sources": [
+      "Sightless"
+    ],
+    "text": "Sem Visão"
+  },
+  {
+    "id": 758,
+    "sources": [
+      "Troubled"
+    ],
+    "text": "Perturbado"
+  },
+  {
+    "id": 759,
+    "sources": [
+      "Corrupted"
+    ],
+    "text": "Corrompido"
+  },
+  {
+    "id": 760,
+    "sources": [
+      "Invalid's"
+    ],
+    "text": "do Inválido"
+  },
+  {
+    "id": 761,
+    "sources": [
+      "Sickened"
+    ],
+    "text": "Debilitado"
+  },
+  {
+    "id": 762,
+    "sources": [
+      "Frailty"
+    ],
+    "text": "Fragilidade"
+  },
+  {
+    "id": 763,
+    "sources": [
+      "Weakness"
+    ],
+    "text": "Fraqueza"
+  },
+  {
+    "id": 764,
+    "sources": [
+      "Clumsiness"
+    ],
+    "text": "Desajeito"
+  },
+  {
+    "id": 765,
+    "sources": [
+      "Shakes"
+    ],
+    "text": "Tremores"
+  },
+  {
+    "id": 766,
+    "sources": [
+      "Disease"
+    ],
+    "text": "Doença"
+  },
+  {
+    "id": 767,
+    "sources": [
+      "Corruption"
+    ],
+    "text": "Corrupção"
+  },
+  {
+    "id": 768,
+    "sources": [
+      "Stupidity"
+    ],
+    "text": "Estupidez"
+  },
+  {
+    "id": 769,
+    "sources": [
+      "Lunacy"
+    ],
+    "text": "Loucura"
+  },
+  {
+    "id": 770,
+    "sources": [
+      "Insanity"
+    ],
+    "text": "Insanidade"
+  },
+  {
+    "id": 771,
+    "sources": [
+      "the Idiot"
+    ],
+    "text": "Idiota"
+  },
+  {
+    "id": 772,
+    "sources": [
+      "Illness"
+    ],
+    "text": "Enfermidade"
+  },
+  {
+    "id": 773,
+    "sources": [
+      "Quivering"
+    ],
+    "text": "Tremor"
+  },
+  {
+    "id": 774,
+    "sources": [
+      "Panting"
+    ],
+    "text": "Ofegância"
+  },
+  {
+    "id": 775,
+    "sources": [
+      "Gasps"
+    ],
+    "text": "Arquejos"
+  },
+  {
+    "id": 776,
+    "sources": [
+      "Slowness"
+    ],
+    "text": "Lentidão"
+  },
+  {
+    "id": 777,
+    "sources": [
+      "Creeping"
+    ],
+    "text": "Rastejamento"
+  },
+  {
+    "id": 778,
+    "sources": [
+      "Slugs"
+    ],
+    "text": "Lesmas"
+  },
+  {
+    "id": 779,
+    "sources": [
+      "Snails"
+    ],
+    "text": "Caracóis"
+  },
+  {
+    "id": 780,
+    "sources": [
+      "the Brittle"
+    ],
+    "text": "Frágil"
+  },
+  {
+    "id": 781,
+    "sources": [
+      "Flaking"
+    ],
+    "text": "Descamação"
+  },
+  {
+    "id": 782,
+    "sources": [
+      "Blindness"
+    ],
+    "text": "Cegueira"
+  },
+  {
+    "id": 783,
+    "sources": [
+      "the Broken"
+    ],
+    "text": "Quebrado"
+  },
+  {
+    "id": 784,
+    "sources": [
+      "Dullness"
+    ],
+    "text": "Embotamento"
+  },
+  {
+    "id": 785,
+    "sources": [
+      "Weakness"
+    ],
+    "text": "Fraqueza"
+  },
+  {
+    "id": 786,
+    "sources": [
+      "Vulnerability"
+    ],
+    "text": "Vulnerabilidade"
+  },
+  {
+    "id": 787,
+    "sources": [
+      "Rust"
+    ],
+    "text": "Ferrugem"
+  },
+  {
+    "id": 788,
+    "sources": [
+      "Affliction"
+    ],
+    "text": "Aflição"
+  },
+  {
+    "id": 789,
+    "sources": [
+      "Affliction"
+    ],
+    "text": "Aflição"
+  },
+  {
+    "id": 790,
+    "sources": [
+      "the Pauper"
+    ],
+    "text": "Pobre"
+  },
+  {
+    "id": 791,
+    "sources": [
+      "the Beggar"
+    ],
+    "text": "Mendigo"
+  },
+  {
+    "id": 792,
+    "sources": [
+      "Slow Casting"
+    ],
+    "text": "Conjuração Lenta"
+  },
+  {
+    "id": 793,
+    "sources": [
+      "Slow Casting"
+    ],
+    "text": "Conjuração Lenta"
+  },
+  {
+    "id": 794,
+    "sources": [
+      "Bleeding"
+    ],
+    "text": "Sangramento"
+  },
+  {
+    "id": 795,
+    "sources": [
+      "Wounds"
+    ],
+    "text": "Feridas"
+  },
+  {
+    "id": 796,
+    "sources": [
+      "Depletion"
+    ],
+    "text": "Esgotamento"
+  },
+  {
+    "id": 797,
+    "sources": [
+      "Bereavement"
+    ],
+    "text": "Luto"
+  },
+  {
+    "id": 798,
+    "sources": [
+      "Reflection"
+    ],
+    "text": "Reflexão"
+  },
+  {
+    "id": 799,
+    "sources": [
+      "Reflection"
+    ],
+    "text": "Reflexão"
+  },
+  {
+    "id": 800,
+    "sources": [
+      "Failure"
+    ],
+    "text": "Fracasso"
+  },
+  {
+    "id": 801,
+    "sources": [
+      "Incompetence"
+    ],
+    "text": "Incompetência"
+  },
+  {
+    "id": 802,
+    "sources": [
+      "Obtuseness"
+    ],
+    "text": "Obtusidade"
+  },
+  {
+    "id": 803,
+    "sources": [
+      "Opacity"
+    ],
+    "text": "Opacidade"
+  },
+  {
+    "id": 804,
+    "sources": [
+      "Achilles"
+    ],
+    "text": "Aquiles"
+  },
+  {
+    "id": 805,
+    "sources": [
+      "Enchant cost\n\b$1 Gold\b"
+    ],
+    "text": "Encantar:\n\b$1 de Ouro\b"
+  },
+  {
+    "id": 806,
+    "sources": [
+      "Place an \bitem\b\nhere to\n\benchant it\b"
+    ],
+    "text": "Coloque aqui um \bitem\b\npara \bencantar\b."
+  },
+  {
+    "id": 807,
+    "sources": [
+      "You are far too \bfamous\b to benefit from my humble art!"
+    ],
+    "text": "Minha arte já não pode aumentar sua \bfama\b."
+  },
+  {
+    "id": 808,
+    "sources": [
+      "\n\nWill you pay \b$1 GP\b to advance to the rank of \b$2?\b\n( Renown Level $3)"
+    ],
+    "text": "\nPagar \b$1 de Ouro\b para alcançar \b$2\b?\nRenome: nível $3"
+  },
+  {
+    "id": 809,
+    "sources": [
+      "You are far too \bfamous\b to benefit from my humble art!"
+    ],
+    "text": "Minha arte já não pode aumentar sua \bfama\b."
+  },
+  {
+    "id": 810,
+    "sources": [
+      "Place an \bitem\b here to destroy any \bsocketed gems\b"
+    ],
+    "text": "Coloque aqui um \bitem\b\npara \bdestruir as gemas\b."
+  },
+  {
+    "id": 811,
+    "sources": [
+      "Break"
+    ],
+    "text": "Destruir"
+  },
+  {
+    "id": 812,
+    "sources": [
+      "Cancel"
+    ],
+    "text": "Cancelar"
+  },
+  {
+    "id": 813,
+    "sources": [
+      "Place an \bitem\b here to destroy it and \bextract gems\b"
+    ],
+    "text": "Coloque aqui um \bitem\b\npara \bextrair as gemas\b."
+  },
+  {
+    "id": 814,
+    "sources": [
+      "Extract"
+    ],
+    "text": "Extrair"
+  },
+  {
+    "id": 815,
+    "sources": [
+      "Enchant"
+    ],
+    "text": "Encantar"
+  },
+  {
+    "id": 816,
+    "sources": [
+      "Place an \bitem\b to pass on to your \bdescendent\b!"
+    ],
+    "text": "Deixe aqui um \bitem\b\npara seu \bdescendente\b."
+  },
+  {
+    "id": 817,
+    "sources": [
+      "Retire"
+    ],
+    "text": "Aposentar-se"
+  },
+  {
+    "id": 818,
+    "sources": [
+      "Spell must be cast on a target!"
+    ],
+    "text": "Selecione um alvo para esta magia!"
+  },
+  {
+    "id": 819,
+    "sources": [
+      "Target is not the right alignment!"
+    ],
+    "text": "O alvo tem um alinhamento incompatível!"
+  },
+  {
+    "id": 820,
+    "sources": [
+      "The Town of Grove"
+    ],
+    "text": "A Cidade de Grove"
+  },
+  {
+    "id": 821,
+    "sources": [
+      "Level $1"
+    ],
+    "text": "Andar $1"
+  },
+  {
+    "id": 822,
+    "sources": [
+      "Summoned : \b$1/$2\b"
+    ],
+    "text": "Invocados: \b$1/$2\b"
+  },
+  {
+    "id": 823,
+    "sources": [
+      "level $1"
+    ],
+    "text": "andar $1"
+  },
+  {
+    "id": 824,
+    "sources": [
+      "Insufficient $1 Skill Level To Cast $2 on $3\nRight Click to Cancel",
+      "Insufficient $1 Skill Level To Cast #2 on $3\nRight Click to Cancel"
+    ],
+    "text": "Nível de $1 insuficiente para usar $2 em $3.\nBotão direito: cancelar."
+  },
+  {
+    "id": 825,
+    "sources": [
+      "Left Click to Cast $1 on $2\nRight Click to Cancel"
+    ],
+    "text": "Botão esquerdo: lançar $1 em $2.\nBotão direito: cancelar."
+  },
+  {
+    "id": 826,
+    "sources": [
+      "Left Click to Cast $1\nRight Click to Cancel"
+    ],
+    "text": "Botão esquerdo: lançar $1.\nBotão direito: cancelar."
+  },
+  {
+    "id": 827,
+    "sources": [
+      "Left Click to $1 $2\nRight Click to Cancel"
+    ],
+    "text": "Botão esquerdo: $1 $2.\nBotão direito: cancelar."
+  },
+  {
+    "id": 828,
+    "sources": [
+      "Left Click to $1\nRight Click to Cancel"
+    ],
+    "text": "Botão esquerdo: $1.\nBotão direito: cancelar."
+  },
+  {
+    "id": 829,
+    "sources": [
+      "SPELL CANNOT BE CAST IN MENU\n"
+    ],
+    "text": "NÃO É POSSÍVEL LANÇAR MAGIAS NO MENU\n"
+  },
+  {
+    "id": 830,
+    "sources": [
+      "CLICK TO CAST\n"
+    ],
+    "text": "CLIQUE PARA LANÇAR\n"
+  },
+  {
+    "id": 831,
+    "sources": [
+      "LEFT CLICK TO SET AS ACTIVE SPELL\nSPELL CANNOT BE CAST IN MENU\n"
+    ],
+    "text": "BOTÃO ESQUERDO PARA ATIVAR A MAGIA\nNÃO É POSSÍVEL LANÇAR MAGIAS NO MENU\n"
+  },
+  {
+    "id": 832,
+    "sources": [
+      "LEFT CLICK TO SET AS ACTIVE SPELL\nRIGHT CLICK TO CAST\n"
+    ],
+    "text": "BOTÃO ESQUERDO PARA ATIVAR A MAGIA\nBOTÃO DIREITO PARA LANÇAR\n"
+  },
+  {
+    "id": 833,
+    "sources": [
+      "\nAttack Magic"
+    ],
+    "text": "\nMagia de Ataque"
+  },
+  {
+    "id": 834,
+    "sources": [
+      "\nDefense Magic"
+    ],
+    "text": "\nMagia de Defesa"
+  },
+  {
+    "id": 835,
+    "sources": [
+      "\nCharm Magic"
+    ],
+    "text": "\nMagia de Encantamento"
+  },
+  {
+    "id": 836,
+    "sources": [
+      "\nTarget : "
+    ],
+    "text": "\nAlvo: "
+  },
+  {
+    "id": 837,
+    "sources": [
+      "\nCasting Time : $1 seconds"
+    ],
+    "text": "\nTempo de Conjuração: $1 s"
+  },
+  {
+    "id": 838,
+    "sources": [
+      "\nMana Cost : "
+    ],
+    "text": "\nCusto de Mana: "
+  },
+  {
+    "id": 839,
+    "sources": [
+      "\nInstant Effect"
+    ],
+    "text": "\nEfeito Instantâneo"
+  },
+  {
+    "id": 840,
+    "sources": [
+      "\nDuration : $1 seconds"
+    ],
+    "text": "\nDuração: $1 s"
+  },
+  {
+    "id": 841,
+    "sources": [
+      "$1% Chance of "
+    ],
+    "text": "$1% de Chance de "
+  },
+  {
+    "id": 842,
+    "sources": [
+      "$1 per second"
+    ],
+    "text": "$1 por segundo"
+  },
+  {
+    "id": 843,
+    "sources": [
+      "$1% Chance to "
+    ],
+    "text": "$1% de Chance de "
+  },
+  {
+    "id": 844,
+    "sources": [
+      "$1 if Level is below $2"
+    ],
+    "text": "$1 se o nível for menor que $2"
+  },
+  {
+    "id": 845,
+    "sources": [
+      "$1 if Dungeon Level is $2 or above"
+    ],
+    "text": "$1 até o andar $2 da masmorra"
+  },
+  {
+    "id": 846,
+    "sources": [
+      "$1 of Identification Level $2 and below"
+    ],
+    "text": "$1 de Nível de Identificação $2 ou menor"
+  },
+  {
+    "id": 847,
+    "sources": [
+      "$1 of Level $2 and Below"
+    ],
+    "text": "$1 de Nível $2 ou menor"
+  },
+  {
+    "id": 848,
+    "sources": [
+      "$1 of Level $2 for $3 Seconds"
+    ],
+    "text": "$1 de Nível $2 por $3 s"
+  },
+  {
+    "id": 849,
+    "sources": [
+      "\nRequires $1"
+    ],
+    "text": "\nRequer $1"
+  },
+  {
+    "id": 850,
+    "sources": [
+      "Gamble Price : "
+    ],
+    "text": "Preço da Aposta: "
+  },
+  {
+    "id": 851,
+    "sources": [
+      "Price : "
+    ],
+    "text": "Preço: "
+  },
+  {
+    "id": 852,
+    "sources": [
+      "Sell Price : "
+    ],
+    "text": "Preço de Venda: "
+  },
+  {
+    "id": 853,
+    "sources": [
+      "\nSocketed : $1 free sockets"
+    ],
+    "text": "\nEngastes: $1 livres"
+  },
+  {
+    "id": 854,
+    "sources": [
+      "\nSocketed : 1 free socket"
+    ],
+    "text": "\nEngastes: 1 livre"
+  },
+  {
+    "id": 855,
+    "sources": [
+      "\nTwo Handed"
+    ],
+    "text": "\nDuas Mãos"
+  },
+  {
+    "id": 856,
+    "sources": [
+      "\nAttack Damage : "
+    ],
+    "text": "\nDano de Ataque: "
+  },
+  {
+    "id": 857,
+    "sources": [
+      "\nDefense : "
+    ],
+    "text": "\nDefesa: "
+  },
+  {
+    "id": 858,
+    "sources": [
+      "\nPlace on socketed item to install"
+    ],
+    "text": "\nColoque sobre um item com engastes para encaixar"
+  },
+  {
+    "id": 859,
+    "sources": [
+      "\nAdds +$1 $2 to armor when installed",
+      "\nAdds +$1 $2 to armour when installed"
+    ],
+    "text": "\nAo encaixar: +$1 $2 na armadura"
+  },
+  {
+    "id": 860,
+    "sources": [
+      "\nAdds +$1 $2 to weapon when installed"
+    ],
+    "text": "\nAo encaixar: +$1 $2 na arma"
+  },
+  {
+    "id": 861,
+    "sources": [
+      "\nAdds $1 $2"
+    ],
+    "text": "\nAdiciona $1 $2"
+  },
+  {
+    "id": 862,
+    "sources": [
+      "$1 when installed"
+    ],
+    "text": "$1 quando encaixado"
+  },
+  {
+    "id": 863,
+    "sources": [
+      "\nNot Identified!\nIdentification Level : $1"
+    ],
+    "text": "\nNão identificado!\nNível de Identificação: $1"
+  },
+  {
+    "id": 864,
+    "sources": [
+      "\nRequires Renown of $1"
+    ],
+    "text": "\nRequer Renome $1"
+  },
+  {
+    "id": 865,
+    "sources": [
+      "\nRequires $1 $2"
+    ],
+    "text": "\nRequer $1 $2"
+  },
+  {
+    "id": 866,
+    "sources": [
+      "\nRequires $2 $1"
+    ],
+    "text": "\nRequer $2 $1"
+  },
+  {
+    "id": 867,
+    "sources": [
+      "\nRight Click to Write To Spellbook"
+    ],
+    "text": "\nBotão direito: aprender no grimório"
+  },
+  {
+    "id": 868,
+    "sources": [
+      "\nYou have already learned this spell."
+    ],
+    "text": "\nVocê já aprendeu esta magia."
+  },
+  {
+    "id": 869,
+    "sources": [
+      "\nYour $1 slots are full\nYou must remove a $2 spell to learn this spell."
+    ],
+    "text": "\nSem espaços para $1.\nRemova uma magia de $2 para aprender esta."
+  },
+  {
+    "id": 870,
+    "sources": [
+      "\nUses : "
+    ],
+    "text": "\nUsos: "
+  },
+  {
+    "id": 871,
+    "sources": [
+      "\nNot Usable in Town"
+    ],
+    "text": "\nNão Pode Ser Usado na Cidade"
+  },
+  {
+    "id": 872,
+    "sources": [
+      "\nPlace on pet's icon or right click to feed to pet"
+    ],
+    "text": "\nArraste para o ícone do companheiro\nou use o botão direito para alimentá-lo."
+  },
+  {
+    "id": 873,
+    "sources": [
+      "\nReturns pet to original form"
+    ],
+    "text": "\nDevolve a forma original ao companheiro"
+  },
+  {
+    "id": 874,
+    "sources": [
+      "\nTransforms pet into $1"
+    ],
+    "text": "\nTransforma o companheiro em $1"
+  },
+  {
+    "id": 875,
+    "sources": [
+      "$1 permanently"
+    ],
+    "text": "$1 permanentemente"
+  },
+  {
+    "id": 876,
+    "sources": [
+      "$1 for $2 seconds"
+    ],
+    "text": "$1 por $2 segundos"
+  },
+  {
+    "id": 877,
+    "sources": [
+      "\nStrength Improved : \b+$1\b"
+    ],
+    "text": "\nForça Aumentada: \b+$1\b"
+  },
+  {
+    "id": 878,
+    "sources": [
+      "\nStrength Reduced : \b$1\b"
+    ],
+    "text": "\nForça Reduzida: \b$1\b"
+  },
+  {
+    "id": 879,
+    "sources": [
+      "\nDexterity Improved : \b+$1\b"
+    ],
+    "text": "\nDestreza Aumentada: \b+$1\b"
+  },
+  {
+    "id": 880,
+    "sources": [
+      "\nDexterity Reduced : \b$1\b"
+    ],
+    "text": "\nDestreza Reduzida: \b$1\b"
+  },
+  {
+    "id": 881,
+    "sources": [
+      "\nVitality Improved : \b+$1\b"
+    ],
+    "text": "\nVitalidade Aumentada: \b+$1\b"
+  },
+  {
+    "id": 882,
+    "sources": [
+      "\nVitality Reduced : \b$1\b"
+    ],
+    "text": "\nVitalidade Reduzida: \b$1\b"
+  },
+  {
+    "id": 883,
+    "sources": [
+      "\nMagic Improved : \b+$1\b"
+    ],
+    "text": "\nMagia Aumentada: \b+$1\b"
+  },
+  {
+    "id": 884,
+    "sources": [
+      "\nMagic Reduced : \b$1\b"
+    ],
+    "text": "\nMagia Reduzida: \b$1\b"
+  },
+  {
+    "id": 885,
+    "sources": [
+      "\nArmor Improved : \b+$1\b",
+      "\nArmour Improved : \b+$1\b"
+    ],
+    "text": "\nArmadura Melhorada: \b+$1\b"
+  },
+  {
+    "id": 886,
+    "sources": [
+      "\nArmor Reduced : \b$1\b",
+      "\nArmour Reduced : \b$1\b"
+    ],
+    "text": "\nArmadura Reduzida: \b$1\b"
+  },
+  {
+    "id": 887,
+    "sources": [
+      "\nRight Click to Use"
+    ],
+    "text": "\nBotão Direito para Usar"
+  },
+  {
+    "id": 888,
+    "sources": [
+      "Close Help"
+    ],
+    "text": "Fechar Ajuda"
+  },
+  {
+    "id": 889,
+    "sources": [
+      "Help Menu"
+    ],
+    "text": "Menu de Ajuda"
+  },
+  {
+    "id": 890,
+    "sources": [
+      "\bLeft Click\b to Move, Attack, and Interact with items\n\bRight Click\b to cast spells (when learned)\nHold \b<CTRL>\b to Run\nHold \b<ALT>\b to highlight items on the ground\nHold \b<SHIFT>\b to remain stationary while attacking\nHold \b<SHIFT>\b while clicking on items to have your pet take them\nHold \b<SHIFT>\b while clicking merchants to sell directly from pet's inventory\n\b<TAB>\b toggles the AutoMap\nPress \bV\b for the Save Menu\nPress \bH\b to toggle this Help Menu\nPress \b<ESC>\b to pause or view the Save Menu"
+    ],
+    "text": "\bBotão esquerdo\b: mover, atacar e interagir com itens\n\bBotão direito\b: lançar magias aprendidas\nSegure \b<CTRL>\b para correr\nSegure \b<ALT>\b para destacar itens no chão\nSegure \b<SHIFT>\b para atacar sem sair do lugar\nSegure \b<SHIFT>\b e clique nos itens para o companheiro pegá-los\nSegure \b<SHIFT>\b e clique nos comerciantes para vender pelo companheiro\n\b<TAB>\b alterna o mapa automático\nPressione \bV\b para abrir o menu de salvamento\nPressione \bH\b para abrir ou fechar esta ajuda\nPressione \b<ESC>\b para pausar ou abrir o menu de salvamento"
+  },
+  {
+    "id": 891,
+    "sources": [
+      "Pet's Health"
+    ],
+    "text": "Vida do Companheiro"
+  },
+  {
+    "id": 892,
+    "sources": [
+      "Drop Items Here\nTo Feed To Pet"
+    ],
+    "text": "Solte Itens Aqui\npara Alimentar o Companheiro"
+  },
+  {
+    "id": 893,
+    "sources": [
+      "Health Bar"
+    ],
+    "text": "Barra de Vida"
+  },
+  {
+    "id": 894,
+    "sources": [
+      "Mana Bar"
+    ],
+    "text": "Barra de Mana"
+  },
+  {
+    "id": 895,
+    "sources": [
+      "Your Gold"
+    ],
+    "text": "Seu Ouro"
+  },
+  {
+    "id": 896,
+    "sources": [
+      "Stamina Bar"
+    ],
+    "text": "Barra de Vigor"
+  },
+  {
+    "id": 897,
+    "sources": [
+      "Experience Bar"
+    ],
+    "text": "Barra de Experiência"
+  },
+  {
+    "id": 898,
+    "sources": [
+      "Toggle Run"
+    ],
+    "text": "Alternar Corrida"
+  },
+  {
+    "id": 899,
+    "sources": [
+      "Toggle Show Loot"
+    ],
+    "text": "Mostrar Itens no Chão"
+  },
+  {
+    "id": 900,
+    "sources": [
+      "Quick Item Slots"
+    ],
+    "text": "Espaços de Acesso Rápido"
+  },
+  {
+    "id": 901,
+    "sources": [
+      "Sub-Menu Buttons"
+    ],
+    "text": "Botões dos Submenus"
+  },
+  {
+    "id": 902,
+    "sources": [
+      "Drag Helmet Here To Wear"
+    ],
+    "text": "Arraste um Elmo Aqui para Equipar"
+  },
+  {
+    "id": 903,
+    "sources": [
+      "Drag Armor Here To Wear",
+      "Drag Armour Here To Wear"
+    ],
+    "text": "Arraste uma Armadura Aqui para Equipar"
+  },
+  {
+    "id": 904,
+    "sources": [
+      "Drag Shield Or Weapon Here To Wear"
+    ],
+    "text": "Arraste um Escudo ou Arma Aqui para Equipar"
+  },
+  {
+    "id": 905,
+    "sources": [
+      "Drag Weapon Here To Wield"
+    ],
+    "text": "Arraste uma Arma Aqui para Empunhar"
+  },
+  {
+    "id": 906,
+    "sources": [
+      "Drag Shield Or Weapon Here To Wear"
+    ],
+    "text": "Arraste um Escudo ou Arma Aqui para Equipar"
+  },
+  {
+    "id": 907,
+    "sources": [
+      "Drag Gloves Here To Wear"
+    ],
+    "text": "Arraste Luvas Aqui para Equipar"
+  },
+  {
+    "id": 908,
+    "sources": [
+      "Drag Necklace Here To Wear"
+    ],
+    "text": "Arraste um Colar Aqui para Equipar"
+  },
+  {
+    "id": 909,
+    "sources": [
+      "Drag Boots Here To Wear"
+    ],
+    "text": "Arraste Botas Aqui para Equipar"
+  },
+  {
+    "id": 910,
+    "sources": [
+      "Drag Ring Here To Wear"
+    ],
+    "text": "Arraste um Anel Aqui para Equipar"
+  },
+  {
+    "id": 911,
+    "sources": [
+      "Drag Ring Here To Wear"
+    ],
+    "text": "Arraste um Anel Aqui para Equipar"
+  },
+  {
+    "id": 912,
+    "sources": [
+      "Drag Belt Here To Wear"
+    ],
+    "text": "Arraste um Cinto Aqui para Equipar"
+  },
+  {
+    "id": 913,
+    "sources": [
+      "Journal"
+    ],
+    "text": "Diário"
+  },
+  {
+    "id": 914,
+    "sources": [
+      "$1hrs $2mins $3secs"
+    ],
+    "text": "$1h $2min $3s"
+  },
+  {
+    "id": 915,
+    "sources": [
+      "Done"
+    ],
+    "text": "Concluir"
+  },
+  {
+    "id": 916,
+    "sources": [
+      "Level"
+    ],
+    "text": "Nível"
+  },
+  {
+    "id": 917,
+    "sources": [
+      "Experience"
+    ],
+    "text": "Experiência"
+  },
+  {
+    "id": 918,
+    "sources": [
+      "Next Level"
+    ],
+    "text": "Próximo Nível"
+  },
+  {
+    "id": 919,
+    "sources": [
+      "Damage"
+    ],
+    "text": "Dano"
+  },
+  {
+    "id": 920,
+    "sources": [
+      "Attack Rating"
+    ],
+    "text": "Índice de Ataque"
+  },
+  {
+    "id": 921,
+    "sources": [
+      "Defense"
+    ],
+    "text": "Defesa"
+  },
+  {
+    "id": 922,
+    "sources": [
+      "Stamina"
+    ],
+    "text": "Vigor"
+  },
+  {
+    "id": 923,
+    "sources": [
+      "Life",
+      "Life "
+    ],
+    "text": "Vida"
+  },
+  {
+    "id": 924,
+    "sources": [
+      "Magic"
+    ],
+    "text": "Magia"
+  },
+  {
+    "id": 926,
+    "sources": [
+      "\bStrength\b affects \bdamage dealt\b"
+    ],
+    "text": "\bForça\b afeta o \bdano causado\b"
+  },
+  {
+    "id": 927,
+    "sources": [
+      "\bDexterity\b affects likelihood of \bstriking\b an opponent\nas well as likelihood of \bdodging\b an attack"
+    ],
+    "text": "\bDestreza\b afeta a chance de \bacertar\b um oponente\ne de \besquivar\b de um ataque"
+  },
+  {
+    "id": 928,
+    "sources": [
+      "\bVitality\b determines the amount of \blife\b available\nas well as the amount of \bstamina\b"
+    ],
+    "text": "\bVitalidade\b determina a quantidade de \bvida\b\ne de \bvigor\b disponível"
+  },
+  {
+    "id": 929,
+    "sources": [
+      "\bMagic\b determines the amount of \bmana points\b available\nand increases \bdamage dealt\b by spells"
+    ],
+    "text": "\bMagia\b determina os \bpontos de mana\b disponíveis\ne aumenta o \bdano causado\b por magias"
+  },
+  {
+    "id": 930,
+    "sources": [
+      "range of damage dealt on a successful strike"
+    ],
+    "text": "Dano mínimo e máximo de um golpe certeiro"
+  },
+  {
+    "id": 931,
+    "sources": [
+      "rating of the likelihood that you will strike"
+    ],
+    "text": "Chance de acertar um ataque"
+  },
+  {
+    "id": 932,
+    "sources": [
+      "rating of the likelihood that you will dodge"
+    ],
+    "text": "Chance de esquivar de um ataque"
+  },
+  {
+    "id": 933,
+    "sources": [
+      "amount of stamina available"
+    ],
+    "text": "quantidade de vigor disponível"
+  },
+  {
+    "id": 934,
+    "sources": [
+      "amount of life available"
+    ],
+    "text": "quantidade de vida disponível"
+  },
+  {
+    "id": 935,
+    "sources": [
+      "amount of mana available"
+    ],
+    "text": "quantidade de mana disponível"
+  },
+  {
+    "id": 936,
+    "sources": [
+      "$1's Quest"
+    ],
+    "text": "Missão de $1"
+  },
+  {
+    "id": 937,
+    "sources": [
+      "Please return when the task is complete!"
+    ],
+    "text": "Volte quando concluir a tarefa!"
+  },
+  {
+    "id": 938,
+    "sources": [
+      "At last! \b$1\b has been destroyed! Your \bjourney\b is complete!\n\nYou receive\n\b$2 Experience\b\n\b$3 Fame\b\n\b$4 Gold\b\n\nCome back and \bspeak\b to me when you would like to \bretire!\b"
+    ],
+    "text": "\b$1\b foi derrotado! Sua \bjornada\b chegou ao fim.\nRecompensa:\n\b$2 de Experiência\b\n\b$3 de Fama\b\n\b$4 de Ouro\b\nVolte para \bfalar\b comigo quando quiser se \baposentar\b."
+  },
+  {
+    "id": 939,
+    "sources": [
+      "\b$1\b the \b$2\b still awaits you on \blevel $3\b. Return when you have \bdefeated\b it..."
+    ],
+    "text": "\b$1\b (\b$2\b) espera no \bandar $3\b. Volte após \bvencer o combate\b."
+  },
+  {
+    "id": 940,
+    "sources": [
+      "Destroy \b$1\b the \b$2\b and its \b$3\b minions on \blevel $4\b."
+    ],
+    "text": "Derrote \b$1\b (\b$2\b) e seus \b$3\b servos no \bandar $4\b."
+  },
+  {
+    "id": 941,
+    "sources": [
+      "You have my gratitude for dispatching \b$1\b and its \bminions\b! Here is your reward!\n\nYou receive\n\b$2 Experience\b\n\b$3 Fame\b\n\b$4 Gold\b"
+    ],
+    "text": "Você derrotou \b$1\b e seus \bservos\b!\nRecompensa:\n\b$2 de Experiência\b\n\b$3 de Fama\b\n\b$4 de Ouro\b"
+  },
+  {
+    "id": 942,
+    "sources": [
+      "Please return when you have defeated \b$1\b and its \bminions\b."
+    ],
+    "text": "Volte após derrotar \b$1\b e seus \bservos\b."
+  },
+  {
+    "id": 943,
+    "sources": [
+      "Destroy \b$1\b the \b$2\b and its \b$3\b minions on \blevel $4\b."
+    ],
+    "text": "Derrote \b$1\b (\b$2\b) e seus \b$3\b servos no \bandar $4\b."
+  },
+  {
+    "id": 944,
+    "sources": [
+      "Thank you for retrieving the \b$1\b from \b$2\b and its \bminions\b! Here is your reward!\n\nYou receive\n\b$3 Experience\b\n\b$4 Fame\b\n\b$5 Gold\b"
+    ],
+    "text": "Você recuperou \b$1\b de \b$2\b e seus \bservos\b!\nRecompensa:\n\b$3 de Experiência\b\n\b$4 de Fama\b\n\b$5 de Ouro\b"
+  },
+  {
+    "id": 945,
+    "sources": [
+      "Please return when you have defeated \b$1\b and its \bminions\b and found the \b$2\b."
+    ],
+    "text": "Derrote \b$1\b e seus \bservos\b e encontre \b$2\b. Depois, volte aqui."
+  },
+  {
+    "id": 946,
+    "sources": [
+      "Destroy \b$1\b the \b$2\b and its \b$3\b minions on \blevel $4\b and return the \b$5\b."
+    ],
+    "text": "Derrote \b$1\b (\b$2\b) e seus \b$3\b servos no \bandar $4\b. Recupere \b$5\b."
+  },
+  {
+    "id": 947,
+    "sources": [
+      "You have my thanks for defeating \b$1!\b - here is your reward!\n\nYou receive\n\b$2 Experience\b\n\b$3 Fame\b\n\b$4 Gold\b"
+    ],
+    "text": "Obrigado por derrotar \b$1\b!\nRecompensa:\n\b$2 de Experiência\b\n\b$3 de Fama\b\n\b$4 de Ouro\b"
+  },
+  {
+    "id": 948,
+    "sources": [
+      "Please return when you have defeated \b$1\b."
+    ],
+    "text": "Volte após derrotar \b$1\b."
+  },
+  {
+    "id": 949,
+    "sources": [
+      "Destroy \b$1\b the \b$2\b on \blevel $3\b."
+    ],
+    "text": "Derrote \b$1\b (\b$2\b) no \bandar $3\b."
+  },
+  {
+    "id": 950,
+    "sources": [
+      "Thank you for clearing out that infestation for me! Here is your reward!\n\nYou receive\n\b$1 Experience\b\n\b$2 Fame\b\n\b$3 Gold\b"
+    ],
+    "text": "Obrigado por eliminar a infestação!\nRecompensa:\n\b$1 de Experiência\b\n\b$2 de Fama\b\n\b$3 de Ouro\b"
+  },
+  {
+    "id": 951,
+    "sources": [
+      "Please return when all of the \b$1s\b have been killed."
+    ],
+    "text": "Volte após eliminar todas as criaturas do tipo \b$1\b."
+  },
+  {
+    "id": 952,
+    "sources": [
+      "Destroy \b$1 $2s\b on \blevel $3\b."
+    ],
+    "text": "Elimine \b$1 criaturas do tipo $2\b no \bandar $3\b."
+  },
+  {
+    "id": 953,
+    "sources": [
+      "Ah! You've found the \b$1!\b And here is your reward. My thanks to you!\n\nYou receive\n\b$2 Experience\b\n\b$3 Fame\b\n\b$4 Gold\b",
+      "Ah! You have found the \b$1!\b And here is your reward. My thanks to you!\n\nYou receive\n\b$2 Experience\b\n\b$3 Fame\b\n\b$4 Gold\b"
+    ],
+    "text": "Você encontrou \b$1\b! Obrigado!\nRecompensa:\n\b$2 de Experiência\b\n\b$3 de Fama\b\n\b$4 de Ouro\b"
+  },
+  {
+    "id": 954,
+    "sources": [
+      "Destroy \b$1\b the \b$2\b on \blevel $3\b and retrieve \b$4\b."
+    ],
+    "text": "Derrote \b$1\b (\b$2\b) no \bandar $3\b e recupere \b$4\b."
+  },
+  {
+    "id": 955,
+    "sources": [
+      "Please return when you have found the \b$1\b."
+    ],
+    "text": "Volte ao encontrar \b$1\b."
+  },
+  {
+    "id": 956,
+    "sources": [
+      "Thank goodness! You've found the \b$1\b! And here is your reward. My thanks to you!\n\nYou receive\n\b$2 Experience\b\n\b$3 Fame\b\n\b$4 Gold\b",
+      "Thank goodness! You have found the \b$1\b! And here is your reward. My thanks to you!\n\nYou receive\n\b$2 Experience\b\n\b$3 Fame\b\n\b$4 Gold\b"
+    ],
+    "text": "Você encontrou \b$1\b! Obrigado!\nRecompensa:\n\b$2 de Experiência\b\n\b$3 de Fama\b\n\b$4 de Ouro\b"
+  },
+  {
+    "id": 957,
+    "sources": [
+      "Retrieve \b$1\b from \blevel $2\b."
+    ],
+    "text": "Recupere \b$1\b no \bandar $2\b."
+  },
+  {
+    "id": 958,
+    "sources": [
+      "Please return when you have found the \b$1\b."
+    ],
+    "text": "Volte ao encontrar \b$1\b."
+  },
+  {
+    "id": 959,
+    "sources": [
+      "Your reward is a \b$1\b."
+    ],
+    "text": "Recompensa: \b$1\b."
+  },
+  {
+    "id": 960,
+    "sources": [
+      "$1 Received\b"
+    ],
+    "text": "Recebeu: $1\b"
+  },
+  {
+    "id": 961,
+    "sources": [
+      " I'll give you this \b$1\b as reward!",
+      " I will give you this \b$1\b as reward!"
+    ],
+    "text": " Sua recompensa será \b$1\b!"
+  },
+  {
+    "id": 962,
+    "sources": [
+      "\n\nYou can find the \bDungeon Entrance\b on the \beast\b side of town..."
+    ],
+    "text": "\nA \bEntrada da Masmorra\b fica a \bleste\b da cidade."
+  },
+  {
+    "id": 963,
+    "sources": [
+      "Active Quests"
+    ],
+    "text": "Missões Ativas"
+  },
+  {
+    "id": 964,
+    "sources": [
+      "Reward"
+    ],
+    "text": "Recompensa"
+  },
+  {
+    "id": 965,
+    "sources": [
+      "Gold"
+    ],
+    "text": "Ouro"
+  },
+  {
+    "id": 966,
+    "sources": [
+      "Fame"
+    ],
+    "text": "Fama"
+  },
+  {
+    "id": 968,
+    "sources": [
+      "Quest Name"
+    ],
+    "text": "Nome da Missão"
+  },
+  {
+    "id": 969,
+    "sources": [
+      "Cancel $1?"
+    ],
+    "text": "Cancelar $1?"
+  },
+  {
+    "id": 970,
+    "sources": [
+      "Cancel this Quest"
+    ],
+    "text": "Cancelar Missão"
+  },
+  {
+    "id": 971,
+    "sources": [
+      "CANCEL"
+    ],
+    "text": "CANCELAR"
+  },
+  {
+    "id": 972,
+    "sources": [
+      "$1 - Complete!"
+    ],
+    "text": "$1 - Concluída!"
+  },
+  {
+    "id": 973,
+    "sources": [
+      "\n\nQuest completed! Return to \b$1\b to receive your reward!\b"
+    ],
+    "text": "\nMissão concluída! Volte até \b$1\b para receber a recompensa!\b"
+  },
+  {
+    "id": 974,
+    "sources": [
+      "\n($1) $2\b Remaining."
+    ],
+    "text": "\nRestam ($1) $2\b."
+  },
+  {
+    "id": 975,
+    "sources": [
+      "You are in Demo Mode. Your Character can only reach level $1."
+    ],
+    "text": "Você está no Modo Demo. Seu personagem só pode chegar ao nível $1."
+  },
+  {
+    "id": 976,
+    "sources": [
+      "Points Remaining"
+    ],
+    "text": "Pontos Livres"
+  },
+  {
+    "id": 977,
+    "sources": [
+      "Adds \b1 point\b to Damage when wielding this weapon\n Adds \b1 point\b to Attack when wielding this weapon\b"
+    ],
+    "text": "+\b1 ponto\b de Dano com esta arma\n+\b1 ponto\b de Ataque com esta arma\b"
+  },
+  {
+    "id": 978,
+    "sources": [
+      "Chance of Critical Strike increases from \b$1%\b to \b$2%\b"
+    ],
+    "text": "Chance de Golpe Crítico:\n\b$1%\b para \b$2%\b"
+  },
+  {
+    "id": 979,
+    "sources": [
+      "Chance of Block with Shield increases from \b$1%\b to \b$2%\b"
+    ],
+    "text": "Chance de Bloqueio:\n\b$1%\b para \b$2%\b"
+  },
+  {
+    "id": 980,
+    "sources": [
+      "Spellcasting speed decrease changes from \b$1%\b to \b$2%\b"
+    ],
+    "text": "Redução do tempo de conjuração:\n\b$1%\b para \b$2%\b"
+  },
+  {
+    "id": 981,
+    "sources": [
+      "Right-Hand Damage increased from \b$1%\b to \b$2%\n\bLeft-Hand Damage increased from \b$3%\b to \b$4%\b"
+    ],
+    "text": "Dano da mão direita:\n\b$1%\b para \b$2%\b\nDano da mão esquerda:\n\b$3%\b para \b$4%\b"
+  },
+  {
+    "id": 982,
+    "sources": [
+      "Active Spell"
+    ],
+    "text": "Magia Ativa"
+  },
+  {
+    "id": 983,
+    "sources": [
+      "Attack Magic"
+    ],
+    "text": "Ataque"
+  },
+  {
+    "id": 984,
+    "sources": [
+      "Defense Magic"
+    ],
+    "text": "Defesa"
+  },
+  {
+    "id": 985,
+    "sources": [
+      "Charm Magic"
+    ],
+    "text": "Encantamento"
+  },
+  {
+    "id": 986,
+    "sources": [
+      "Hold CTRL and Left Click to\npermanently remove a spell"
+    ],
+    "text": "CTRL + botão esquerdo:\nremover magia para sempre"
+  },
+  {
+    "id": 987,
+    "sources": [
+      "Renown"
+    ],
+    "text": "Renome"
+  },
+  {
+    "id": 988,
+    "sources": [
+      "Attack"
+    ],
+    "text": "Ataque"
+  },
+  {
+    "id": 989,
+    "sources": [
+      "$1 the $2 \b($3)\b"
+    ],
+    "text": "$1, $2 \b($3)\b"
+  },
+  {
+    "id": 990,
+    "sources": [
+      "$1 the $2"
+    ],
+    "text": "$1, $2"
+  },
+  {
+    "id": 991,
+    "sources": [
+      "Display Tips"
+    ],
+    "text": "Exibir Dicas"
+  },
+  {
+    "id": 992,
+    "sources": [
+      "\n\b-socketed-\b"
+    ],
+    "text": "\n\b-com engastes-\b"
+  },
+  {
+    "id": 993,
+    "sources": [
+      "Blocked!"
+    ],
+    "text": "Bloqueado!"
+  },
+  {
+    "id": 994,
+    "sources": [
+      "$1 gold"
+    ],
+    "text": "$1 de ouro"
+  },
+  {
+    "id": 995,
+    "sources": [
+      "Failed!"
+    ],
+    "text": "Falhou!"
+  },
+  {
+    "id": 996,
+    "sources": [
+      "Return to town?"
+    ],
+    "text": "Voltar à cidade?"
+  },
+  {
+    "id": 997,
+    "sources": [
+      "Ascend the stairs?"
+    ],
+    "text": "Subir as escadas?"
+  },
+  {
+    "id": 998,
+    "sources": [
+      "Enter the dungeon?"
+    ],
+    "text": "Entrar na masmorra?"
+  },
+  {
+    "id": 999,
+    "sources": [
+      "Descend deeper into the dungeon?"
+    ],
+    "text": "Descer mais um andar?"
+  },
+  {
+    "id": 1000,
+    "sources": [
+      "In Demo Mode you are only allowed to venture down $1 dungeon levels."
+    ],
+    "text": "No Modo Demo, você só pode explorar $1 andares da masmorra."
+  },
+  {
+    "id": 1001,
+    "sources": [
+      "Return to the dungeon?"
+    ],
+    "text": "Voltar à masmorra?"
+  },
+  {
+    "id": 1002,
+    "sources": [
+      "Getts the Traveler",
+      "Getts the Traveller"
+    ],
+    "text": "Getts, o Viajante"
+  },
+  {
+    "id": 1003,
+    "sources": [
+      "Pikko the Fisherman"
+    ],
+    "text": "Pikko, o Pescador"
+  },
+  {
+    "id": 1004,
+    "sources": [
+      "Select Difficulty"
+    ],
+    "text": "Escolha a Dificuldade"
+  },
+  {
+    "id": 1005,
+    "sources": [
+      "Page"
+    ],
+    "text": "Pajem"
+  },
+  {
+    "id": 1006,
+    "sources": [
+      "Easiest difficulty level"
+    ],
+    "text": "Dificuldade mais fácil"
+  },
+  {
+    "id": 1007,
+    "sources": [
+      "Adventurer"
+    ],
+    "text": "Aventureiro"
+  },
+  {
+    "id": 1008,
+    "sources": [
+      "Normal difficulty level"
+    ],
+    "text": "Dificuldade normal"
+  },
+  {
+    "id": 1009,
+    "sources": [
+      "Hero"
+    ],
+    "text": "Herói"
+  },
+  {
+    "id": 1010,
+    "sources": [
+      "Hard difficulty level"
+    ],
+    "text": "Dificuldade difícil"
+  },
+  {
+    "id": 1011,
+    "sources": [
+      "Legend"
+    ],
+    "text": "Lenda"
+  },
+  {
+    "id": 1012,
+    "sources": [
+      "Hardest difficulty level"
+    ],
+    "text": "Dificuldade mais difícil"
+  },
+  {
+    "id": 1013,
+    "sources": [
+      "Back"
+    ],
+    "text": "Voltar"
+  },
+  {
+    "id": 1014,
+    "sources": [
+      "Descendent Name"
+    ],
+    "text": "Nome do Descendente"
+  },
+  {
+    "id": 1015,
+    "sources": [
+      "Set Gender to Male"
+    ],
+    "text": "Selecionar Sexo Masculino"
+  },
+  {
+    "id": 1016,
+    "sources": [
+      "Random Name"
+    ],
+    "text": "Nome Aleatório"
+  },
+  {
+    "id": 1017,
+    "sources": [
+      "Random Features"
+    ],
+    "text": "Aparência Aleatória"
+  },
+  {
+    "id": 1018,
+    "sources": [
+      "Select Hairstyle"
+    ],
+    "text": "Escolher Cabelo"
+  },
+  {
+    "id": 1019,
+    "sources": [
+      "Select Face"
+    ],
+    "text": "Escolher Rosto"
+  },
+  {
+    "id": 1020,
+    "sources": [
+      "Pet's Name"
+    ],
+    "text": "Nome do Companheiro"
+  },
+  {
+    "id": 1021,
+    "sources": [
+      "Select Dog as Pet"
+    ],
+    "text": "Escolher Cão como Companheiro"
+  },
+  {
+    "id": 1022,
+    "sources": [
+      "Select Cat as Pet"
+    ],
+    "text": "Escolher Gato como Companheiro"
+  },
+  {
+    "id": 1023,
+    "sources": [
+      "\bRETIRED\b\n"
+    ],
+    "text": "\bAPOSENTADO\b\n"
+  },
+  {
+    "id": 1024,
+    "sources": [
+      "\nDifficulty : \b$1\b"
+    ],
+    "text": "\nDificuldade: \b$1\b"
+  },
+  {
+    "id": 1025,
+    "sources": [
+      "Continue Playing"
+    ],
+    "text": "Continuar Jogando"
+  },
+  {
+    "id": 1026,
+    "sources": [
+      "Delete Game"
+    ],
+    "text": "Excluir Jogo"
+  },
+  {
+    "id": 1027,
+    "sources": [
+      "Really delete \b$1\b forever?"
+    ],
+    "text": "Excluir \b$1\b para sempre?"
+  },
+  {
+    "id": 1028,
+    "sources": [
+      "Delete"
+    ],
+    "text": "Excluir"
+  },
+  {
+    "id": 1029,
+    "sources": [
+      "Cancel"
+    ],
+    "text": "Cancelar"
+  },
+  {
+    "id": 1030,
+    "sources": [
+      "\b-Producers-\b\nJay Minn\nTravis Baldree"
+    ],
+    "text": "\b-Produção-\b\nJay Minn\nTravis Baldree"
+  },
+  {
+    "id": 1031,
+    "sources": [
+      "\b-Design/Programming-\b\nTravis Baldree"
+    ],
+    "text": "\b-Design/Programação-\b\nTravis Baldree"
+  },
+  {
+    "id": 1032,
+    "sources": [
+      "\b-Art Direction-\b\nTravis Baldree"
+    ],
+    "text": "\b-Direção de Arte-\b\nTravis Baldree"
+  },
+  {
+    "id": 1033,
+    "sources": [
+      "\b-Artists-\b\nJason Beck, Kevin Green, Jeff Selbig, Mike Fisher\nDavid Johnson, Travis Baldree, Martin Bartsch, Tito Pagan\nLiquid Development, Donnavon Webb, Nikitova, Jurgen Brenkert, David Helsby"
+    ],
+    "text": "\b-Artistas-\b\nJason Beck, Kevin Green, Jeff Selbig, Mike Fisher\nDavid Johnson, Travis Baldree, Martin Bartsch, Tito Pagan\nLiquid Development, Donnavon Webb, Nikitova, Jurgen Brenkert, David Helsby"
+  },
+  {
+    "id": 1034,
+    "sources": [
+      "\b-Test Lead-\b\nMarcus King"
+    ],
+    "text": "\b-Liderança de Testes-\b\nMarcus King"
+  },
+  {
+    "id": 1035,
+    "sources": [
+      "\b-Testers-\b\nScott Branston, Greg Brown, Tony Case\nBill Dennes, John Dunbar, Todd Dyment\nDeon Miyoi, Chris Mosconi, Sergio Sanchez"
+    ],
+    "text": "\b-Testadores-\b\nScott Branston, Greg Brown, Tony Case\nBill Dennes, John Dunbar, Todd Dyment\nDeon Miyoi, Chris Mosconi, Sergio Sanchez"
+  },
+  {
+    "id": 1036,
+    "sources": [
+      "\b-Audio-\b\nMarc Pospisil, Travis Baldree\nAdditional Music Licensed from LicenseMusic.com\nVoice Talents of Henry Dardennes, Lynn McManus, Dave White, John Patrick Lowrie"
+    ],
+    "text": "\b-Áudio-\b\nMarc Pospisil, Travis Baldree\nMúsicas Adicionais Licenciadas de LicenseMusic.com\nVozes de Henry Dardennes, Lynn McManus, Dave White, John Patrick Lowrie"
+  },
+  {
+    "id": 1037,
+    "sources": [
+      "Since oldest living memory, the \bDungeon Gate\b has stood in the heart of the \bOld Wood\b.  Its doorway leads to infinite possibility, to \bsubterranean lands\b fabled in stories and myths.  Many \badventurers\b have passed over that ancient threshold - some to find \bfame\b, \bglory\b, and \bwealth\b beyond telling, and others \bnever to return\b.\n\nThe town of \bGrove\b has ever been the safe haven at the Dungeon's mouth - a watering hole and resting place for weary adventurers.  Here great tales are told by the Inn's fire.  \bJourneys\b are planned, and \blegacies\b are made.  \bMinstrels\b sing of the great feats of \bheroes\b long gone, and \bstatues\b ring the square, a testament to their deeds.\n\nAfter traveling many hard and dusty days, you and your faithful \bcompanion\b arrive at last in the fabled forest town, which waits beneath the long shadow of the \bGate\b.\n\nWithin these walls lies the path to \binfinite adventure\b. It is here that you will test your worth, and perhaps find \bfortune\b and \bglory\b along the way. It is here that you will determine your \bFate...\b",
+      "Since oldest living memory, the \bDungeon Gate\b has been standing in the heart of the \bOld Wood\b.  Its doorway leads to infinite possibility, to \bsubterranean lands\b fabled in stories and myths.  Many \badventurers\b have passed over that ancient threshold - some to find \bfame\b, \bglory\b, and \bwealth\b beyond telling, and others \bnever to return\b.\n\nThe town of \bGrove\b has forever been the safe haven at the Dungeon's mouth - a watering hole and resting place for weary adventurers.  Here great tales are told by the Inn's fire.  \bJourneys\b are planned, and \blegacies\b are made.  \bMinstrels\b sing of the great feats of \bheroes\b long gone, and \bstatues\b ring the square, a testament to their deeds.\n\nAfter travelling many hard and dusty days, you and your faithful \bcompanion\b arrive at last in the fabled forest town, which awaits beneath the long shadow of the \bGate\b.\n\nWithin these walls lies the path to \binfinite adventure\b. It is here that you will test your worth, and perhaps find \bfortune\b and \bglory\b along the way. It is here that you will determine your \bFate...\b"
+    ],
+    "text": "Desde os tempos mais antigos, o \bPortão da Masmorra\b se ergue no coração do \bBosque Antigo\b. Sua passagem leva a possibilidades infinitas, a \bterras subterrâneas\b celebradas em histórias e mitos. Muitos \baventureiros\b cruzaram aquele limiar ancestral: alguns encontraram \bfama\b, \bglória\b e \briquezas\b inimagináveis; outros \bnunca voltaram\b.\n\nA cidade de \bGrove\b sempre foi um refúgio seguro à entrada da Masmorra, um lugar de descanso para aventureiros cansados. Grandes histórias são contadas ao redor da lareira da estalagem. \bJornadas\b são planejadas e \blegados\b são construídos. \bMenestréis\b cantam os grandes feitos de \bheróis\b do passado, e \bestátuas\b ao redor da praça testemunham suas façanhas.\n\nApós muitos dias de viagem árdua por estradas empoeiradas, você e seu fiel \bcompanheiro\b finalmente chegam à lendária cidade da floresta, sob a longa sombra do \bPortão\b.\n\nDentro destas muralhas começa o caminho para \baventuras sem fim\b. Aqui você provará seu valor e talvez encontre \bfortuna\b e \bglória\b pelo caminho. É aqui que você determinará seu \bDestino...\b"
+  },
+  {
+    "id": 1038,
+    "sources": [
+      "Continue..."
+    ],
+    "text": "Continuar..."
+  },
+  {
+    "id": 1039,
+    "sources": [
+      "Since oldest living memory, the \bDungeon Gate\b has stood in the heart of the \bOld Wood\b.  Its doorway leads to infinite possibility, to \bsubterranean lands\b fabled in stories and myths.  Many \badventurers\b have passed over that ancient threshold - some to find \bfame\b, \bglory\b, and \bwealth\b beyond telling, and others \bnever to return\b.\n\nThe town of \bGrove\b has ever been the safe haven at the Dungeon's mouth - a watering hole and resting place for weary adventurers.  Here great tales are told by the Inn's fire.  \bJourneys\b are planned, and \blegacies\b are made.  \bMinstrels\b sing of the great feats of \bheroes\b long gone, and \bstatues\b ring the square, a testament to their deeds.\n\nAfter traveling many hard and dusty days, you and your faithful \bcompanion\b arrive at last in the fabled forest town, which waits beneath the long shadow of the \bGate\b.\n\nWithin these walls lies the path to \binfinite adventure\b. It is here that you will test your worth, and perhaps find \bfortune\b and \bglory\b along the way. It is here that you will determine your \bFate...\b",
+      "Since oldest living memory, the \bDungeon Gate\b has been standing in the heart of the \bOld Wood\b.  Its doorway leads to infinite possibility, to \bsubterranean lands\b fabled in stories and myths.  Many \badventurers\b have passed over that ancient threshold - some to find \bfame\b, \bglory\b, and \bwealth\b beyond telling, and others \bnever to return\b.\n\nThe town of \bGrove\b has forever been the safe haven at the Dungeon's mouth - a watering hole and resting place for weary adventurers.  Here great tales are told by the Inn's fire.  \bJourneys\b are planned, and \blegacies\b are made.  \bMinstrels\b sing of the great feats of \bheroes\b long gone, and \bstatues\b ring the square, a testament to their deeds.\n\nAfter travelling many hard and dusty days, you and your faithful \bcompanion\b arrive at last in the fabled forest town, which awaits beneath the long shadow of the \bGate\b.\n\nWithin these walls lies the path to \binfinite adventure\b. It is here that you will test your worth, and perhaps find \bfortune\b and \bglory\b along the way. It is here that you will determine your \bFate...\b"
+    ],
+    "text": "Desde os tempos mais antigos, o \bPortão da Masmorra\b se ergue no coração do \bBosque Antigo\b. Sua passagem leva a possibilidades infinitas, a \bterras subterrâneas\b celebradas em histórias e mitos. Muitos \baventureiros\b cruzaram aquele limiar ancestral: alguns encontraram \bfama\b, \bglória\b e \briquezas\b inimagináveis; outros \bnunca voltaram\b.\n\nA cidade de \bGrove\b sempre foi um refúgio seguro à entrada da Masmorra, um lugar de descanso para aventureiros cansados. Grandes histórias são contadas ao redor da lareira da estalagem. \bJornadas\b são planejadas e \blegados\b são construídos. \bMenestréis\b cantam os grandes feitos de \bheróis\b do passado, e \bestátuas\b ao redor da praça testemunham suas façanhas.\n\nApós muitos dias de viagem árdua por estradas empoeiradas, você e seu fiel \bcompanheiro\b finalmente chegam à lendária cidade da floresta, sob a longa sombra do \bPortão\b.\n\nDentro destas muralhas começa o caminho para \baventuras sem fim\b. Aqui você provará seu valor e talvez encontre \bfortuna\b e \bglória\b pelo caminho. É aqui que você determinará seu \bDestino...\b"
+  },
+  {
+    "id": 1040,
+    "sources": [
+      "Demo Version"
+    ],
+    "text": "Versão Demo"
+  },
+  {
+    "id": 1041,
+    "sources": [
+      "Ve\brsi\bon $1b",
+      "Version $1b"
+    ],
+    "text": "Versão $1b"
+  },
+  {
+    "id": 1042,
+    "sources": [
+      "New Game"
+    ],
+    "text": "Novo Jogo"
+  },
+  {
+    "id": 1043,
+    "sources": [
+      "Continue Game"
+    ],
+    "text": "Continuar Jogo"
+  },
+  {
+    "id": 1044,
+    "sources": [
+      "Options"
+    ],
+    "text": "Opções"
+  },
+  {
+    "id": 1045,
+    "sources": [
+      "Credits"
+    ],
+    "text": "Créditos"
+  },
+  {
+    "id": 1046,
+    "sources": [
+      "Help"
+    ],
+    "text": "Ajuda"
+  },
+  {
+    "id": 1047,
+    "sources": [
+      "Visit PlayFate.com"
+    ],
+    "text": "Visitar PlayFate.com"
+  },
+  {
+    "id": 1048,
+    "sources": [
+      "Name"
+    ],
+    "text": "Nome"
+  },
+  {
+    "id": 1049,
+    "sources": [
+      "Screen Resolution"
+    ],
+    "text": "Resolução da Tela"
+  },
+  {
+    "id": 1051,
+    "sources": [
+      "Light Blur"
+    ],
+    "text": "Suavizar Luz"
+  },
+  {
+    "id": 1052,
+    "sources": [
+      "On"
+    ],
+    "text": "Ligado"
+  },
+  {
+    "id": 1053,
+    "sources": [
+      "Shadows"
+    ],
+    "text": "Sombras"
+  },
+  {
+    "id": 1054,
+    "sources": [
+      "All Objects"
+    ],
+    "text": "Todos os Objetos"
+  },
+  {
+    "id": 1055,
+    "sources": [
+      "Shadow Detail"
+    ],
+    "text": "Detalhe das Sombras"
+  },
+  {
+    "id": 1056,
+    "sources": [
+      "High"
+    ],
+    "text": "Alto"
+  },
+  {
+    "id": 1057,
+    "sources": [
+      "Particles"
+    ],
+    "text": "Partículas"
+  },
+  {
+    "id": 1058,
+    "sources": [
+      "VSYNC"
+    ],
+    "text": "Sincronia Vertical"
+  },
+  {
+    "id": 1059,
+    "sources": [
+      "Off"
+    ],
+    "text": "Desligado"
+  },
+  {
+    "id": 1060,
+    "sources": [
+      "Fog"
+    ],
+    "text": "Névoa"
+  },
+  {
+    "id": 1061,
+    "sources": [
+      "Antialiasing"
+    ],
+    "text": "Suavizar Bordas"
+  },
+  {
+    "id": 1062,
+    "sources": [
+      "Brightness"
+    ],
+    "text": "Brilho"
+  },
+  {
+    "id": 1063,
+    "sources": [
+      "Sound Effect Volume"
+    ],
+    "text": "Volume dos Efeitos"
+  },
+  {
+    "id": 1064,
+    "sources": [
+      "Music Volume"
+    ],
+    "text": "Volume da Música"
+  },
+  {
+    "id": 1065,
+    "sources": [
+      "Display Tips"
+    ],
+    "text": "Exibir Dicas"
+  },
+  {
+    "id": 1071,
+    "sources": [
+      "1280x768(wide)"
+    ],
+    "text": "1280x768(ampla)"
+  },
+  {
+    "id": 1072,
+    "sources": [
+      "1920x1200(wide)"
+    ],
+    "text": "1920x1200(ampla)"
+  },
+  {
+    "id": 1073,
+    "sources": [
+      "Player Only"
+    ],
+    "text": "Só Jogador"
+  },
+  {
+    "id": 1074,
+    "sources": [
+      "Characters Only"
+    ],
+    "text": "Só Personagens"
+  },
+  {
+    "id": 1075,
+    "sources": [
+      "All"
+    ],
+    "text": "Todos"
+  },
+  {
+    "id": 1076,
+    "sources": [
+      "Plain"
+    ],
+    "text": "Simples"
+  },
+  {
+    "id": 1077,
+    "sources": [
+      "Animated"
+    ],
+    "text": "Animado"
+  },
+  {
+    "id": 1078,
+    "sources": [
+      "At last, your \bjourney\b is complete...  \bWearied\b from your long years of \badventure\b, you at last settle down, and pass your \blegacy\b onto a \byounger\b hero. They will \bcarry on\b your name, \bfighting\b new battles, \brighting\b old wrongs, and pursuing their \bFate\b..."
+    ],
+    "text": "Enfim, sua \bjornada\b está concluída... \bCansado\b pelos longos anos de \baventura\b, você finalmente se estabelece e passa seu \blegado\b a um herói \bmais jovem\b. Ele irá \bperpetuar\b seu nome, \blutar\b novas batalhas, \bcorrigir\b antigas injustiças e buscar seu \bDestino\b..."
+  },
+  {
+    "id": 1079,
+    "sources": [
+      "Create Descendent"
+    ],
+    "text": "Criar Descendente"
+  },
+  {
+    "id": 1080,
+    "sources": [
+      "Retire Forever"
+    ],
+    "text": "Aposentar para Sempre"
+  },
+  {
+    "id": 1081,
+    "sources": [
+      "At last, your \bjourney\b is complete...  \bWearied\b from your long years of \badventure\b, you at last settle down, and pass your \blegacy\b onto a \byounger\b hero. They will \bcarry on\b your name, \bfighting\b new battles, \brighting\b old wrongs, and pursuing their own \bFate...\b\n\n"
+    ],
+    "text": "Enfim, sua \bjornada\b está concluída... \bCansado\b pelos longos anos de \baventura\b, você finalmente se estabelece e passa seu \blegado\b a um herói \bmais jovem\b. Ele irá \bperpetuar\b seu nome, \blutar\b novas batalhas, \bcorrigir\b antigas injustiças e buscar seu próprio \bDestino...\b\n\n"
+  },
+  {
+    "id": 1082,
+    "sources": [
+      "Insufficient $1 Skill Level To Cast!"
+    ],
+    "text": "Habilidade $1 insuficiente para lançar!"
+  },
+  {
+    "id": 1083,
+    "sources": [
+      "Spell must be cast on an item!"
+    ],
+    "text": "Selecione um item para esta magia!"
+  },
+  {
+    "id": 1084,
+    "sources": [
+      "Nothing happens!"
+    ],
+    "text": "Nada acontece!"
+  },
+  {
+    "id": 1085,
+    "sources": [
+      "Excellent! Your $1 has been raised by\n\b$2 Points!\b"
+    ],
+    "text": "Seu atributo $1 aumentou em\n\b$2 pontos!\b"
+  },
+  {
+    "id": 1086,
+    "sources": [
+      "Oh no! Your $1 has been reduced by\n\b$2 Points!\b"
+    ],
+    "text": "Seu atributo $1 diminuiu em\n\b$2 pontos!\b"
+  },
+  {
+    "id": 1087,
+    "sources": [
+      "Two \b$1\b gemstones pop from the \bStatue\b!"
+    ],
+    "text": "Duas gemas de \b$1\b caem da \bEstátua\b!"
+  },
+  {
+    "id": 1088,
+    "sources": [
+      "As you \bpry\b at the gemstones, a deep \brumbling\b echoes from the ground! \b$1\b has been summoned to defend the \bStatue\b!"
+    ],
+    "text": "Ao \barrancar\b as gemas, você ouve um \bestrondo\b! \b$1\b surge para defender a \bEstátua\b!"
+  },
+  {
+    "id": 1089,
+    "sources": [
+      "You place your \b$1\b upon the \bAnvil\b but ... nothing happens!"
+    ],
+    "text": "Você coloca \b$1\b na \bBigorna\b, mas nada acontece!"
+  },
+  {
+    "id": 1090,
+    "sources": [
+      "A \bspectral hammer\b crashes down upon your \b$1\b - and you discover that new \bSockets\b have been added!"
+    ],
+    "text": "O \bmartelo espectral\b atinge \b$1\b e cria novos \bengastes\b!"
+  },
+  {
+    "id": 1091,
+    "sources": [
+      "A \bspectral hammer\b crashes down upon your \b$1\b - and your item receives extra enchantment!"
+    ],
+    "text": "O \bmartelo espectral\b dá um encantamento extra ao item \b$1\b!"
+  },
+  {
+    "id": 1092,
+    "sources": [
+      "A \bspectral hammer\b crashes down upon your \b$1\b - and your item is imbued with unique powers!"
+    ],
+    "text": "O \bmartelo espectral\b dá poderes únicos ao item \b$1\b!"
+  },
+  {
+    "id": 1093,
+    "sources": [
+      "A \bspectral hammer\b crashes down upon your \b$1\b - and removes all powers from your item!"
+    ],
+    "text": "O \bmartelo espectral\b remove todos os poderes do item \b$1\b!"
+  },
+  {
+    "id": 1094,
+    "sources": [
+      "You place your \b$1\b upon the \bAnvil\b but ... nothing happens!"
+    ],
+    "text": "Você coloca \b$1\b na \bBigorna\b, mas nada acontece!"
+  },
+  {
+    "id": 1095,
+    "sources": [
+      "You Feel Healthy!"
+    ],
+    "text": "Você se sente mais saudável!"
+  },
+  {
+    "id": 1096,
+    "sources": [
+      "You Mind Feels Clearer!"
+    ],
+    "text": "Sua mente está mais clara!"
+  },
+  {
+    "id": 1097,
+    "sources": [
+      "You Feel Rested!"
+    ],
+    "text": "Você se sente descansado!"
+  },
+  {
+    "id": 1098,
+    "sources": [
+      "\bFate's Statue\b looms...\nWill you \btempt Fate\b and \bpry\b the gems from the statue?"
+    ],
+    "text": "A \bEstátua do Destino\b se ergue diante de você. Quer \bdesafiar o Destino\b e \barrancar as gemas\b?"
+  },
+  {
+    "id": 1099,
+    "sources": [
+      "Pry"
+    ],
+    "text": "Arrancar"
+  },
+  {
+    "id": 1100,
+    "sources": [
+      "Leave"
+    ],
+    "text": "Sair"
+  },
+  {
+    "id": 1101,
+    "sources": [
+      "The \bShrine of Learning\b awaits the patient student...\nWill you \btempt Fate\b and read from the ancient text?"
+    ],
+    "text": "O \bSantuário do Saber\b guarda um texto antigo. Quer \bdesafiar o Destino\b e ler o texto?"
+  },
+  {
+    "id": 1102,
+    "sources": [
+      "Place an item on the \bMagic Anvil\b"
+    ],
+    "text": "Coloque um item na \bBigorna Mágica\b."
+  },
+  {
+    "id": 1103,
+    "sources": [
+      "You must have a fishing pole to go fishing."
+    ],
+    "text": "Você precisa de uma vara de pesca para pescar."
+  },
+  {
+    "id": 1104,
+    "sources": [
+      "Your pet meets you in town, and has brought you\n\b$1 Gold\b\nfrom the sale of items!"
+    ],
+    "text": "Seu companheiro chegou à cidade com\n\b$1 de Ouro\b\nda venda dos itens!"
+  },
+  {
+    "id": 1105,
+    "sources": [
+      "Your pet has returned from town, and has brought you\n\b$1 Gold\b\nfrom the sale of items!"
+    ],
+    "text": "Seu companheiro voltou da cidade com\n\b$1 de Ouro\b\nda venda dos itens!"
+  },
+  {
+    "id": 1106,
+    "sources": [
+      "Your pet meets you in town."
+    ],
+    "text": "Seu companheiro encontra você na cidade."
+  },
+  {
+    "id": 1107,
+    "sources": [
+      "Your pet has returned from town."
+    ],
+    "text": "Seu companheiro voltou da cidade."
+  },
+  {
+    "id": 1108,
+    "sources": [
+      "DISPELLED!"
+    ],
+    "text": "DISSIPADO!"
+  },
+  {
+    "id": 1109,
+    "sources": [
+      "+$1 HP"
+    ],
+    "text": "+$1 PV"
+  },
+  {
+    "id": 1110,
+    "sources": [
+      "-$1 HP"
+    ],
+    "text": "-$1 PV"
+  },
+  {
+    "id": 1111,
+    "sources": [
+      "Miss"
+    ],
+    "text": "Errou"
+  },
+  {
+    "id": 1112,
+    "sources": [
+      "Fleeing!"
+    ],
+    "text": "Fugindo!"
+  },
+  {
+    "id": 1113,
+    "sources": [
+      "$1 HP"
+    ],
+    "text": "$1 PV"
+  },
+  {
+    "id": 1114,
+    "sources": [
+      "Summoned $1"
+    ],
+    "text": "$1 Invocado"
+  },
+  {
+    "id": 1115,
+    "sources": [
+      "Return To Dungeon Level $1"
+    ],
+    "text": "Voltar ao Andar $1 da Masmorra"
+  },
+  {
+    "id": 1116,
+    "sources": [
+      "Return To Town"
+    ],
+    "text": "Voltar à Cidade"
+  },
+  {
+    "id": 1117,
+    "sources": [
+      "No Effect"
+    ],
+    "text": "Sem Efeito"
+  },
+  {
+    "id": 1118,
+    "sources": [
+      "-$1 hp"
+    ],
+    "text": "-$1 pv"
+  },
+  {
+    "id": 1119,
+    "sources": [
+      "+$1 XP"
+    ],
+    "text": "+$1 EXP"
+  },
+  {
+    "id": 1120,
+    "sources": [
+      "LEVEL UP!"
+    ],
+    "text": "SUBIU DE NÍVEL!"
+  },
+  {
+    "id": 1121,
+    "sources": [
+      "+$1 FAME"
+    ],
+    "text": "+$1 FAMA"
+  },
+  {
+    "id": 1122,
+    "sources": [
+      "Your \bFame\b has increased! You have attained the rank of \b$1\b. You receive \bextra Skill Points to spend!\b"
+    ],
+    "text": "Sua \bFama\b aumentou! Novo título: \b$1\b.\nVocê ganhou \bPontos de Habilidade extras\b!"
+  },
+  {
+    "id": 1124,
+    "sources": [
+      "Your pet is already in town!"
+    ],
+    "text": "Seu companheiro já está na cidade!"
+  },
+  {
+    "id": 1125,
+    "sources": [
+      "Poisoned!"
+    ],
+    "text": "Envenenado!"
+  },
+  {
+    "id": 1126,
+    "sources": [
+      "Mana Recovery",
+      "Mana Recovered"
+    ],
+    "text": "Recuperação de Mana"
+  },
+  {
+    "id": 1127,
+    "sources": [
+      "Life Recovery"
+    ],
+    "text": "Recuperação de Vida"
+  },
+  {
+    "id": 1128,
+    "sources": [
+      "Stamina Recovery"
+    ],
+    "text": "Recuperação de Vigor"
+  },
+  {
+    "id": 1129,
+    "sources": [
+      "Defense Rating"
+    ],
+    "text": "Índice de Defesa"
+  },
+  {
+    "id": 1130,
+    "sources": [
+      "Damage Dealt"
+    ],
+    "text": "Dano Causado"
+  },
+  {
+    "id": 1131,
+    "sources": [
+      "Damage Taken"
+    ],
+    "text": "Dano Recebido"
+  },
+  {
+    "id": 1132,
+    "sources": [
+      "View this Quest"
+    ],
+    "text": "Ver esta Missão"
+  },
+  {
+    "id": 1133,
+    "sources": [
+      "Low"
+    ],
+    "text": "Baixo"
+  },
+  {
+    "id": 1134,
+    "sources": [
+      "Medium"
+    ],
+    "text": "Médio"
+  },
+  {
+    "id": 1135,
+    "sources": [
+      "High"
+    ],
+    "text": "Alto"
+  },
+  {
+    "id": 1137,
+    "sources": [
+      "Town Portal Scroll"
+    ],
+    "text": "Pergaminho de Portal da Cidade"
+  },
+  {
+    "id": 1138,
+    "sources": [
+      "Light Handaxe"
+    ],
+    "text": "Machadinha Leve"
+  },
+  {
+    "id": 1139,
+    "sources": [
+      "Health Potion"
+    ],
+    "text": "Poção de Vida"
+  },
+  {
+    "id": 1140,
+    "sources": [
+      "Identify Scroll"
+    ],
+    "text": "Pergaminho de Identificação"
+  },
+  {
+    "id": 1141,
+    "sources": [
+      "Cat"
+    ],
+    "text": "Gato"
+  },
+  {
+    "id": 1142,
+    "sources": [
+      "Life $1/$2"
+    ],
+    "text": "Vida $1/$2"
+  },
+  {
+    "id": 1144,
+    "sources": [
+      "Stamina $1/$2"
+    ],
+    "text": "Vigor $1/$2"
+  },
+  {
+    "id": 1145,
+    "sources": [
+      "Experience $1/$2"
+    ],
+    "text": "Experiência $1/$2"
+  },
+  {
+    "id": 1146,
+    "sources": [
+      "$1 of $2"
+    ],
+    "text": "$1 de $2"
+  },
+  {
+    "id": 1147,
+    "sources": [
+      "Go Fishing!"
+    ],
+    "text": "Pescar!"
+  },
+  {
+    "id": 1148,
+    "sources": [
+      "Ascend Stairs"
+    ],
+    "text": "Subir Escadas"
+  },
+  {
+    "id": 1149,
+    "sources": [
+      "Descend Stairs"
+    ],
+    "text": "Descer Escadas"
+  },
+  {
+    "id": 1150,
+    "sources": [
+      "$1's \n$2"
+    ],
+    "text": "$2\nde $1"
+  },
+  {
+    "id": 1151,
+    "sources": [
+      " of $1"
+    ],
+    "text": " de $1"
+  },
+  {
+    "id": 1157,
+    "sources": [
+      "Descend Into Dungeon"
+    ],
+    "text": "Descer à Masmorra"
+  },
+  {
+    "id": 1158,
+    "sources": [
+      "View this Quest"
+    ],
+    "text": "Ver esta Missão"
+  },
+  {
+    "id": 1159,
+    "sources": [
+      "Cursed Sword"
+    ],
+    "text": "Espada Amaldiçoada"
+  },
+  {
+    "id": 1160,
+    "sources": [
+      "CRITICAL STRIKE"
+    ],
+    "text": "GOLPE CRÍTICO"
+  },
+  {
+    "id": 1161,
+    "sources": [
+      "Click to View Help"
+    ],
+    "text": "Clique para Ver Ajuda"
+  },
+  {
+    "id": 1162,
+    "sources": [
+      "$1 GP"
+    ],
+    "text": "$1 Ouro"
+  },
+  {
+    "id": 1163,
+    "sources": [
+      "Upgrade"
+    ],
+    "text": "Melhorar"
+  },
+  {
+    "id": 1164,
+    "sources": [
+      "BLOCKED"
+    ],
+    "text": "BLOQUEADO"
+  },
+  {
+    "id": 1165,
+    "sources": [
+      "Book of Identify"
+    ],
+    "text": "Livro de Identificação"
+  },
+  {
+    "id": 1166,
+    "sources": [
+      "Book of Town Portals"
+    ],
+    "text": "Livro de Portais da Cidade"
+  }
+]

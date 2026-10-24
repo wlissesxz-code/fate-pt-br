@@ -1,0 +1,158 @@
+[
+  {
+    "path": "TOWN/town.SCN",
+    "optional": false,
+    "names": [
+      {
+        "before": "bartleby",
+        "after": "Bartleby"
+      },
+      {
+        "before": "getts the traveler",
+        "after": "Getts, o Viajante"
+      },
+      {
+        "before": "dell arness",
+        "after": "Dell Arness"
+      },
+      {
+        "before": "jin the seer",
+        "after": "Jin, o Vidente"
+      },
+      {
+        "before": "Dreya the Healer",
+        "after": "Dreya, a Curandeira"
+      },
+      {
+        "before": "zim",
+        "after": "Zim"
+      },
+      {
+        "before": "Storage Trunk",
+        "after": "Baú de Armazenamento"
+      },
+      {
+        "before": "Rollo the Minstrel",
+        "after": "Rollo, o Menestrel"
+      },
+      {
+        "before": "Rikko the Enchanter",
+        "after": "Rikko, o Encantador"
+      }
+    ]
+  },
+  {
+    "path": "TOWN/splash.SCN",
+    "optional": false,
+    "names": [
+      {
+        "before": "bartleby",
+        "after": "Bartleby"
+      }
+    ]
+  },
+  {
+    "path": "TOWN/en-US/town.SCN",
+    "optional": true,
+    "names": [
+      {
+        "before": "bartleby",
+        "after": "Bartleby"
+      },
+      {
+        "before": "getts the traveler",
+        "after": "Getts, o Viajante"
+      },
+      {
+        "before": "dell arness",
+        "after": "Dell Arness"
+      },
+      {
+        "before": "jin the seer",
+        "after": "Jin, o Vidente"
+      },
+      {
+        "before": "Dreya the Healer",
+        "after": "Dreya, a Curandeira"
+      },
+      {
+        "before": "zim",
+        "after": "Zim"
+      },
+      {
+        "before": "Storage Trunk",
+        "after": "Baú de Armazenamento"
+      },
+      {
+        "before": "Rollo the Minstrel",
+        "after": "Rollo, o Menestrel"
+      },
+      {
+        "before": "Rikko the Enchanter",
+        "after": "Rikko, o Encantador"
+      }
+    ]
+  },
+  {
+    "path": "TOWN/en-US/splash.SCN",
+    "optional": true,
+    "names": [
+      {
+        "before": "bartleby",
+        "after": "Bartleby"
+      }
+    ]
+  },
+  {
+    "path": "TOWN/en-UK/town.SCN",
+    "optional": true,
+    "names": [
+      {
+        "before": "bartleby",
+        "after": "Bartleby"
+      },
+      {
+        "before": "getts the traveler",
+        "after": "Getts, o Viajante"
+      },
+      {
+        "before": "dell arness",
+        "after": "Dell Arness"
+      },
+      {
+        "before": "jin the seer",
+        "after": "Jin, o Vidente"
+      },
+      {
+        "before": "Dreya the Healer",
+        "after": "Dreya, a Curandeira"
+      },
+      {
+        "before": "zim",
+        "after": "Zim"
+      },
+      {
+        "before": "Storage Trunk",
+        "after": "Baú de Armazenamento"
+      },
+      {
+        "before": "Rollo the Minstrel",
+        "after": "Rollo, o Menestrel"
+      },
+      {
+        "before": "Rikko the Enchanter",
+        "after": "Rikko, o Encantador"
+      }
+    ]
+  },
+  {
+    "path": "TOWN/en-UK/splash.SCN",
+    "optional": true,
+    "names": [
+      {
+        "before": "bartleby",
+        "after": "Bartleby"
+      }
+    ]
+  }
+]

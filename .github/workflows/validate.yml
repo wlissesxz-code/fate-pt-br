@@ -1,0 +1,19 @@
+name: Validar e empacotar
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validar e criar ZIP sem arquivos do jogo
+        shell: powershell
+        run: ./scripts/Build-Release.ps1
+      - uses: actions/upload-artifact@v4
+        with:
+          name: fate-pt-br-candidato
+          path: dist/*
